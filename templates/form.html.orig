@@ -45,11 +45,11 @@
 	<h2>Arts and Culture</h2>
 	<ul>
 		<li>Paintings</li>
-
-
-
+<<<<<<< HEAD
+	  		<input id="ex6" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0" style="width:400px"/>
+=======
 	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
-
+>>>>>>> master
 	  	<br>
 		<li>Crafts</li>
 	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
