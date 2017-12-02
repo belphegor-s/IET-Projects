@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Personalized Tourism Recommendation System</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/css/bootstrap-slider.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<style type="text/css">
+		li > input {
+			width: 400px !important;
+			max-width: 95%;
+		}
+		li {
+			margin-top: 12px !important;
+			margin-bottom: 12px;
+		}
+		#exslider .slider-selection {
+		background: #BABABA;
+		}
+	</style>
+</head>
+<body>
+	<div class="architecture">
+	<h2>Architecture and Monuments</h2>
+	<ul>
+		<li>Historic Buildings</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Forts</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Palaces</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Temples</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Castles</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+	</ul>
+	</div>
+
+	<div class="arts">
+	<h2>Arts and Culture</h2>
+	<ul>
+		<li>Paintings</li>
+<<<<<<< HEAD
+	  		<input id="ex6" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0" style="width:400px"/>
+=======
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+>>>>>>> master
+	  	<br>
+		<li>Crafts</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Museums</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Archeological Sites</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+	</ul>
+	</div>
+
+	<div class="adventure">
+	<h2>Adventure</h2>
+	<ul>
+		<li>Camel Riding</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Safari</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Camping</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Tiger Reserve</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+	  	<li>Sanctuary</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+	</ul>
+	</div>
+
+	<div class="Nature">
+	<h2>Nature</h2>
+	<ul>
+		<li>Lakes</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Zoo</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>WaterFall</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Bird Sanctuary</li>
+	  		<input data-slider-id='exslider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+	</ul>
+	<style type="text/css">
+		li{
+			margin-top:12px;
+			margin-bottom: 12px;
+		}
+	</style>
+	</div>
+</body>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="dec.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/bootstrap-slider.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script type="text/javascript">
+	// With JQuery
+	$("input").slider({
+	tooltip: 'always'
+	});
+	$('input').slider({
+		formatter: function(value) {
+			return value;
+		}
+	});
+</script>
+</html>
