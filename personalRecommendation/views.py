@@ -23,6 +23,9 @@ import time
 # Go to http://localhost:8000/api/tourism/ to run the API
 # Make a POST request as {"city": "city_name"} to fetch the results
 
+def home(request):
+	return render(request, 'form.html')
+
 class PersonalRecommendationAPI(APIView):
 	permission_class = (AllowAny,)
 
@@ -30,7 +33,7 @@ class PersonalRecommendationAPI(APIView):
 		return Response("Rajasthan Hackathon 3.0 : Personalized Tourism Recommendation API (The Incredibles)")
 
 	def post(self, request, format=None):
-		city = request.data.get('city')
+		city = request.POST.get('city')
 		city = str(city)
 		city = str.title(city)
 
@@ -61,26 +64,70 @@ class PersonalRecommendationAPI(APIView):
 		# 5->safari
 
 		# Collecting data from various places with the help of Google Maps Places API
-		places = [ ['historical buildings', 'forts', 'palaces', 'temples', 'castles'],
-		['painting', 'crafts', 'museum', 'archeological sites'],
-		['camel riding', 'safari', 'camping', 'tiger reserve', 'sanctuary'],
-		['lakes', 'zoo', 'waterfall', 'bird sanctuary',],
-		 ]
+		sub={
+		"1":'historical buildings',
+		"2": 'forts',
+		"3": 'palaces',
+		"4": 'temples',
+		"5": 'castles',
+		"6": 'painting',
+		"7": 'crafts',
+		"8": 'museum',
+		"9": 'archeological sites',
+		"10": 'camel riding',
+		"11": 'safari',
+		"12": 'camping',
+		"13": 'tiger reserve',
+		"14": 'sanctuary',
+		"15": 'lakes',
+		"16": 'zoo',
+		"17": 'waterfall',
+		"18": 'bird sanctuary',
+		}
+
+		sub2={
+		"1": request.POST.get("1"),
+		"2": request.POST.get("2"),
+		"3": request.POST.get("3"),
+		"4": request.POST.get("4"),
+		"5": request.POST.get("5"),
+		"6": request.POST.get("6"),
+		"7": request.POST.get("7"),
+		"8": request.POST.get("8"),
+		"9": request.POST.get("9"),
+		"10": request.POST.get("10"),
+		"11": request.POST.get("11"),
+		"12": request.POST.get("12"),
+		"13": request.POST.get("13"),
+		"14": request.POST.get("14"),
+		"15": request.POST.get("15"),
+		"16": request.POST.get("16"),
+		"17": request.POST.get("17"),
+		"18": request.POST.get("18"),
+		}
+		sub2Sorted=sorted(sub2.items(),key=operator.itemgetter(1))
+		# places = [ ['historical buildings', 'forts', 'palaces', 'temples', 'castles'],
+		# ['painting', 'crafts', 'museum', 'archeological sites'],
+		# ['camel riding', 'safari', 'camping', 'tiger reserve', 'sanctuary'],
+		# ['lakes', 'zoo', 'waterfall', 'bird sanctuary',],
+		#  ]
 		#architecture', 'art', 'desert', 'museum', 'nature', 'outdoor_recreation', 'safari', 'shopping', 'tiger', 'wildlife']
 		# architecture = ['historical buildings', 'forts', 'palaces', 'temples', 'castles']
 		# arts = ['painting', 'crafts', 'museum', 'archeological sites']
 		# adventure = ['camel riding', 'safari', 'camping', 'tiger reserve', 'sanctuary']
 		# nature = ['lakes', 'zoo', 'waterfall', 'bird sanctuary']
-		for j in places:
-			ct=0
-			for i in j:
-				d = {'query': i+str(' in ')+city, 'location': latlng, 'radius': 50000,}
-				places_result  = gmaps.places(**d)
-				for x in places_result.get("results"):
-					dt=(x.get("geometry").get("location").get("lat"),x.get("geometry").get("location").get("lng"),x.get("name"),x.get("rating"),x.get("types"))
-					if data.count(dt) == 0:
-						data.append(dt)
-						ct+=1
+		k=1
+		for j in sub2Sorted.iteritems():
+			d = {'query': sub[j]+str(' in ')+city, 'location': latlng, 'radius': 50000,}
+			places_result  = gmaps.places(**d)
+			for x in places_result.get("results"):
+				dt=(x.get("geometry").get("location").get("lat"),x.get("geometry").get("location").get("lng"),x.get("name"),x.get("rating"),x.get("types"))
+				if data.count(dt) == 0:
+					data.append(dt)
+					ct+=1
+			k+=1
+			if(k==8):
+				break
 			print(ct)
 		print(len(data))
 		# places = ['amusement_park', 'aquarium', 'art_gallery', 'church', 'hindu_temple', 'library', 'mosque', 'museum', 'park', 'zoo', 'lodging', 'restaurant', 'university', 'stadium', 'spa', 'shopping_mall']

@@ -23,8 +23,15 @@
 	</style>
 </head>
 <body>
-	<div style="text-align:center">
 	<form method="POST" action="">{% csrf_token %}
+		
+	<div style="text-align:center">
+
+	Enter city:&nbsp; <select name="city">
+			<option>Jai Pur</option>
+			<option>Jodh Pur</option>
+			<option> Udai Pur</option>
+		</select>
 	<div class="architecture">
 	<h2>Architecture and Monuments</h2>
 	<ul>
@@ -104,13 +111,14 @@
 	</ul>
 	</div>
 	<button class="btn btn-primary" type='submit'>Submit</button>
-	</form>
 </div>
+</form>
 <footer style="height: 95px;background-color: #eee; margin-top:25px " >
 </footer>
 </body>
 {% include 'javascript.html' %}
 <script type="text/javascript">
+
 	// With JQuery
 	$("input").slider({
 	tooltip: 'always'
@@ -120,5 +128,43 @@
 			return value;
 		}
 	});
+
+	$("button").on('click', function(e){
+
+	$.ajax({
+		type: "post",
+		url: 'submit', 
+		dataType:'html',
+		data: {
+		'city': $("input[name='city']").val(),	
+		'1': $("input[name='1']").val(),
+		'2': $("input[name='2']").val(),
+		'3': $("input[name='3']").val(),
+		'4': $("input[name='4']").val(),
+		'5': $("input[name='5']").val(),
+		'6': $("input[name='6']").val(),
+		'7': $("input[name='7']").val(),
+		'8': $("input[name='8']").val(),
+		'9': $("input[name='9']").val(),
+		'10': $("input[name='10']").val(),
+		'11': $("input[name='11']").val(),
+		'12': $("input[name='12']").val(),
+		'13': $("input[name='13']").val(),
+		'14': $("input[name='14']").val(),
+		'15': $("input[name='15']").val(),
+		'16': $("input[name='16']").val(),
+		'17': $("input[name='17']").val(),
+		'18': $("input[name='18']").val(),
+		},
+		success: function (data) {
+			window.location.assign('/api/tourism');
+		//  $("#data").html('<br/><br/><i style="text-align: center;" class="fa fa-spinner fa-pulse fa-3x fa-fw"></i>');
+		// alert('<h4 class="modal-title">Settings</h4>', '<span style= "font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif !important; font-style: none !important;" >Settings Updated Sucessfully</span>');           
+		} 
+		});
+		return true;
+	});
+
+
 </script>
 </html>

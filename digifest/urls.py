@@ -15,8 +15,11 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
+from personalRecommendation import views
 
 urlpatterns = [
 	url(r'^api/tourism/', include("personalRecommendation.urls", namespace='personalized-tourism-recommendation-api')),
     url(r'^admin/', admin.site.urls),
+    url(r'^$', views.home, name="form"), 
+    url(r'^submit/',views.PersonalRecommendationAPI().post,name="post_request")
 ]
