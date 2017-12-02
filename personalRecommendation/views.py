@@ -54,11 +54,11 @@ class PersonalRecommendationAPI(APIView):
 		location = geocode_result[0]['geometry']['location']
 		latlng = (location['lat'], location['lng'])
 		# 0-> arcitecture
-		#1->art
-		#2->adventure
-		#3-> nature
-		#4->shopping
-		#5->safari
+		# 1->art
+		# 2->adventure
+		# 3-> nature
+		# 4->shopping
+		# 5->safari
 
 		# Collecting data from various places with the help of Google Maps Places API
 		places = [ ['historical buildings', 'forts', 'palaces', 'temples', 'castles'],
