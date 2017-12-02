@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
+from django.views.decorators.cache import cache_page
+from django.views.decorators.csrf import csrf_protect
 from django.http import HttpResponse
 from django.shortcuts import render
 from rest_framework.views import APIView

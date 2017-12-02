@@ -23,7 +23,7 @@
 	</style>
 </head>
 <body>
-	<form method="POST" action="">{% csrf_token %}
+	<form action="" method="POST" >{% csrf_token %}
 		
 	<div style="text-align:center">
 
@@ -113,10 +113,10 @@
 	<button class="btn btn-primary" type='submit'>Submit</button>
 </div>
 </form>
+{% include 'javascript.html' %}
 <footer style="height: 95px;background-color: #eee; margin-top:25px " >
 </footer>
 </body>
-{% include 'javascript.html' %}
 <script type="text/javascript">
 
 	// With JQuery
