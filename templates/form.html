@@ -1,82 +1,66 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Form</title>
+	<title>Personalized Tourism Recommendation System</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<script type="text/javascript" src="dec.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/css/bootstrap-slider.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<style type="text/css">
-		#slidecontainer {
-    	width: 80%;
-		}
-
-		.slider {
-		    -webkit-appearance: none;
-		    width: 80%;
-		    height: 25px;
-		    background: #d3d3d3;
-		    outline: none;
-		    opacity: 0.7;
-		    -webkit-transition: .2s;
-		    transition: opacity .2s;
-		}
-
-		.slider:hover {
-		    opacity: 1;
-		}
-
-		.slider::-webkit-slider-thumb {
-		    -webkit-appearance: none;
-		    appearance: none;
-		    width: 25px;
-		    height: 25px;
-		    background: #4CAF50;
-		    cursor: pointer;
-		}
-
-		.slider::-moz-range-thumb {
-		    width: 25px;
-		    height: 25px;
-		    background: #4CAF50;
-		    cursor: pointer;
+		#ex1Slider .slider-selection {
+		background: #BABABA;
 		}
 	</style>
 </head>
 <body>
+	<div class="architecture">
 	<h2>Architecture and Monuments</h2>
 	<ul>
 		<li>Historic Buildings</li>
-		<div id="slidecontainer">
-	  		<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
-		</div>
+	  		<input id="ex1" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
 		<li>Forts</li>
-		<div id="slidecontainer">
-	  		<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
-		</div>
+	  		<input id="ex2" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
 		<li>Palaces</li>
-		<div id="slidecontainer">
-	  		<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
-		</div>
+	  		<input id="ex3" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
 		<li>Temples</li>
-		<div id="slidecontainer">
-	  		<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
-		</div>
+	  		<input id="ex4" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
 		<li>Castles</li>
-		<div id="slidecontainer">
-	  		<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
-		</div>
+	  		<input id="ex5" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
 	</ul>
-	<div id="slidecontainer">
-	  <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+	</div>
+
+	<div class="architecture">
+	<h2>Arts and Culture</h2>
+	<ul>
+		<li>Paintings</li>
+	  		<input id="ex6" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Crafts</li>
+	  		<input id="ex7" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Museums</li>
+	  		<input id="ex8" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+		<li>Archeological Sites</li>
+	  		<input id="ex9" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="5" data-slider-value="0"/>
+	  	<br>
+	</ul>
 	</div>
 </body>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="dec.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/bootstrap-slider.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script type="text/javascript">
-	var slider = new Slider('#slider', {
-	formatter: function(value) {
-		return 'Current value: ' + value;
-	}
-});
+	// With JQuery
+	$('input').slider({
+		formatter: function(value) {
+			return value;
+		}
+	});
 </script>
 </html>
