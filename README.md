@@ -1,5 +1,7 @@
 # Building a URL Shortener & QR Code Generator Bot for Facebook Messenger on Hasura
 
+<p align="center"><img src="https://user-images.githubusercontent.com/20622980/35486412-aa3af56c-0493-11e8-8c9f-31544fbbea63.gif" /></p>
+
 This tutorial is a guide to run a **URL Shortener & QR Code Generator bot on facebook messenger**, that create short URLs in real time and can also generate QR Code for that URL, which can be easily shared, tweeted, or emailed to friends. It is build by using [Google URL Shortener API](https://developers.google.com/api-client-library/python/apis/urlshortener/v1) and [pyshorteners](http://www.ellison.rocks/pyshorteners/).
 
 For the chat bot to function we'll need a server that will receive the messages sent by the Facebook users, process this message and respond back to the user. To send messages back to the server we will use the graph API provided by Facebook. For the Facebook servers to talk to our server, the endpoint URL of our server should be accessible to the Facebook server and should use a secure HTTPS URL. For this reason, running our server locally will not work and instead we need to host our server online. In this tutorial, we are going to deploy our server on Hasura which automatically provides SSL-enabled domains.
@@ -177,10 +179,6 @@ Share your QR Code as
 ```
 ![chart](https://user-images.githubusercontent.com/20622980/35487139-4e2e394a-049e-11e8-9f17-b0dcab496c12.png)
 
-
-**Here is the bot in action**
-
-![fb-bot 2018_01_29_00_39_12](https://user-images.githubusercontent.com/20622980/35486412-aa3af56c-0493-11e8-8c9f-31544fbbea63.gif)
 
 ## Support
 
