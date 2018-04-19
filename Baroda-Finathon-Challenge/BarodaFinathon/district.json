@@ -1,0 +1,6761 @@
+[
+  {
+     "s.no":"1"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Thane"
+    ,"code":"TH"
+    ,"headquarters":"Thane"
+    ,"population":"1,10,60,148"
+    ,"area":"9,558"
+    ,"density":"1,157"
+  },
+  {
+     "s.no":"2"
+    ,"state":"West Bengal (WB)"
+    ,"district":"North 24 Parganas"
+    ,"code":"PN"
+    ,"headquarters":"Barasat"
+    ,"population":"1,00,82,852"
+    ,"area":"4,094"
+    ,"density":"2,463"
+  },
+  {
+     "s.no":"3"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Bangalore Urban"
+    ,"code":"BN"
+    ,"headquarters":"Bangalore"
+    ,"population":"95,88,910"
+    ,"area":"2,190"
+    ,"density":"4,378"
+  },
+  {
+     "s.no":"4"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Pune"
+    ,"code":"PU"
+    ,"headquarters":"Pune"
+    ,"population":"94,26,959"
+    ,"area":"15,643"
+    ,"density":"603"
+  },
+  {
+     "s.no":"5"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Mumbai suburban"
+    ,"code":"MU"
+    ,"headquarters":"Bandra (East)"
+    ,"population":"93,32,481"
+    ,"area":"369"
+    ,"density":"20,925"
+  },
+  {
+     "s.no":"6"
+    ,"state":"West Bengal (WB)"
+    ,"district":"South 24 Parganas"
+    ,"code":"PS"
+    ,"headquarters":"Alipore"
+    ,"population":"81,53,176"
+    ,"area":"9,960"
+    ,"density":"819"
+  },
+  {
+     "s.no":"7"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Bardhaman"
+    ,"code":"BR"
+    ,"headquarters":"Bardhaman"
+    ,"population":"77,23,663"
+    ,"area":"7,024"
+    ,"density":"1,100"
+  },
+  {
+     "s.no":"8"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Ahmedabad"
+    ,"code":"AH"
+    ,"headquarters":"Ahmedabad"
+    ,"population":"72,08,200"
+    ,"area":"8,707"
+    ,"density":"890"
+  },
+  {
+     "s.no":"9"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Murshidabad"
+    ,"code":"MSD"
+    ,"headquarters":"Baharampur"
+    ,"population":"71,02,430"
+    ,"area":"5,324"
+    ,"density":"1,334"
+  },
+  {
+     "s.no":"10"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Jaipur"
+    ,"code":"JP"
+    ,"headquarters":"Jaipur"
+    ,"population":"66,63,971"
+    ,"area":"11,152"
+    ,"density":"598"
+  },
+  {
+     "s.no":"11"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Nashik"
+    ,"code":"NS"
+    ,"headquarters":"Nashik"
+    ,"population":"61,09,052"
+    ,"area":"15,539"
+    ,"density":"393"
+  },
+  {
+     "s.no":"12"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Allahabad"
+    ,"code":"AH"
+    ,"headquarters":"Allahabad"
+    ,"population":"59,59,798"
+    ,"area":"5,481"
+    ,"density":"1,087"
+  },
+  {
+     "s.no":"13"
+    ,"state":"Bihar (BR)"
+    ,"district":"Patna"
+    ,"code":"PA"
+    ,"headquarters":"Patna"
+    ,"population":"57,72,804"
+    ,"area":"3,202"
+    ,"density":"1,803"
+  },
+  {
+     "s.no":"14"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Hooghly"
+    ,"code":"HG"
+    ,"headquarters":"Hugli-Chuchura"
+    ,"population":"55,20,389"
+    ,"area":"3,149"
+    ,"density":"1,753"
+  },
+  {
+     "s.no":"15"
+    ,"state":"Telangana (TS)"
+    ,"district":"Ranga Reddy"
+    ,"code":"RA"
+    ,"headquarters":"Hyderabad"
+    ,"population":"52,96,396"
+    ,"area":"7,493"
+    ,"density":"707"
+  },
+  {
+     "s.no":"16"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Nadia"
+    ,"code":"NA"
+    ,"headquarters":"Krishnanagar"
+    ,"population":"51,68,488"
+    ,"area":"3,927"
+    ,"density":"1,316"
+  },
+  {
+     "s.no":"17"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"East Godavari"
+    ,"code":"EG"
+    ,"headquarters":"Kakinada"
+    ,"population":"51,51,549"
+    ,"area":"10,807"
+    ,"density":"477"
+  },
+  {
+     "s.no":"18"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Paschim Medinipur"
+    ,"code":"PM"
+    ,"headquarters":"Midnapore"
+    ,"population":"50,94,238"
+    ,"area":"9,345"
+    ,"density":"1,076"
+  },
+  {
+     "s.no":"19"
+    ,"state":"Bihar (BR)"
+    ,"district":"East Champaran"
+    ,"code":"EC"
+    ,"headquarters":"Motihari"
+    ,"population":"50,82,868"
+    ,"area":"3,969"
+    ,"density":"1,281"
+  },
+  {
+     "s.no":"20"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Surat"
+    ,"code":"ST"
+    ,"headquarters":"Surat"
+    ,"population":"49,96,391"
+    ,"area":"4,327"
+    ,"density":"653"
+  },
+  {
+     "s.no":"21"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Guntur"
+    ,"code":"GU"
+    ,"headquarters":"Guntur"
+    ,"population":"48,89,230"
+    ,"area":"11,391"
+    ,"density":"429"
+  },
+  {
+     "s.no":"22"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Howrah"
+    ,"code":"HR"
+    ,"headquarters":"Howrah"
+    ,"population":"48,41,638"
+    ,"area":"1,467"
+    ,"density":"3,300"
+  },
+  {
+     "s.no":"23"
+    ,"state":"Bihar (BR)"
+    ,"district":"Muzaffarpur"
+    ,"code":"MZ"
+    ,"headquarters":"Muzaffarpur"
+    ,"population":"47,78,610"
+    ,"area":"3,173"
+    ,"density":"1,506"
+  },
+  {
+     "s.no":"24"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Belgaum"
+    ,"code":"BG"
+    ,"headquarters":"Belgaum"
+    ,"population":"47,78,439"
+    ,"area":"13,415"
+    ,"density":"356"
+  },
+  {
+     "s.no":"25"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Moradabad"
+    ,"code":"MO"
+    ,"headquarters":"Moradabad"
+    ,"population":"47,73,138"
+    ,"area":"3,718"
+    ,"density":"1,284"
+  },
+  {
+     "s.no":"26"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Chennai"
+    ,"code":"CH"
+    ,"headquarters":"Chennai (Madras)"
+    ,"population":"46,81,087"
+    ,"area":"174"
+    ,"density":"26,903"
+  },
+  {
+     "s.no":"27"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Ghaziabad"
+    ,"code":"GZ"
+    ,"headquarters":"Ghaziabad"
+    ,"population":"46,61,452"
+    ,"area":"1,175"
+    ,"density":"3,967"
+  },
+  {
+     "s.no":"28"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Nagpur"
+    ,"code":"NG"
+    ,"headquarters":"Nagpur"
+    ,"population":"46,53,171"
+    ,"area":"9,892"
+    ,"density":"470"
+  },
+  {
+     "s.no":"29"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Azamgarh"
+    ,"code":"AZ"
+    ,"headquarters":"Azamgarh"
+    ,"population":"46,16,509"
+    ,"area":"4,053"
+    ,"density":"1,139"
+  },
+  {
+     "s.no":"30"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Lucknow"
+    ,"code":"LU"
+    ,"headquarters":"Lucknow"
+    ,"population":"45,88,455"
+    ,"area":"2,528"
+    ,"density":"1,815"
+  },
+  {
+     "s.no":"31"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Kanpur Nagar"
+    ,"code":"KN"
+    ,"headquarters":"Kanpur"
+    ,"population":"45,72,951"
+    ,"area":"3,156"
+    ,"density":"1,415"
+  },
+  {
+     "s.no":"32"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Ahmednagar"
+    ,"code":"AH"
+    ,"headquarters":"Ahmednagar"
+    ,"population":"45,43,083"
+    ,"area":"17,048"
+    ,"density":"266"
+  },
+  {
+     "s.no":"33"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Krishna"
+    ,"code":"KR"
+    ,"headquarters":"Machilipatnam"
+    ,"population":"45,29,009"
+    ,"area":"8,727"
+    ,"density":"519"
+  },
+  {
+     "s.no":"34"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Kolkata"
+    ,"code":"KO"
+    ,"headquarters":"Kolkata"
+    ,"population":"44,86,679"
+    ,"area":"185"
+    ,"density":"24,252"
+  },
+  {
+     "s.no":"35"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Jaunpur district"
+    ,"code":"JU"
+    ,"headquarters":"Jaunpur"
+    ,"population":"44,76,072"
+    ,"area":"4,038"
+    ,"density":"1,108"
+  },
+  {
+     "s.no":"36"
+    ,"state":"Bihar (BR)"
+    ,"district":"Madhubani"
+    ,"code":"MB"
+    ,"headquarters":"Madhubani"
+    ,"population":"44,76,044"
+    ,"area":"3,501"
+    ,"density":"1,279"
+  },
+  {
+     "s.no":"37"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Sitapur"
+    ,"code":"SI"
+    ,"headquarters":"Sitapur"
+    ,"population":"44,74,446"
+    ,"area":"5,743"
+    ,"density":"779"
+  },
+  {
+     "s.no":"38"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Bareilly"
+    ,"code":"BR"
+    ,"headquarters":"Bareilly"
+    ,"population":"44,65,344"
+    ,"area":"4,120"
+    ,"density":"1,084"
+  },
+  {
+     "s.no":"39"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Gorakhpur"
+    ,"code":"GR"
+    ,"headquarters":"Gorakhpur"
+    ,"population":"44,36,275"
+    ,"area":"3,325"
+    ,"density":"1,336"
+  },
+  {
+     "s.no":"40"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Purba Medinipur"
+    ,"code":"PR"
+    ,"headquarters":"Tamluk"
+    ,"population":"44,17,377"
+    ,"area":"4,736"
+    ,"density":"923"
+  },
+  {
+     "s.no":"41"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Agra"
+    ,"code":"AG"
+    ,"headquarters":"Agra"
+    ,"population":"43,80,793"
+    ,"area":"4,027"
+    ,"density":"1,084"
+  },
+  {
+     "s.no":"42"
+    ,"state":"Bihar (BR)"
+    ,"district":"Gaya"
+    ,"code":"GA"
+    ,"headquarters":"Gaya"
+    ,"population":"43,79,383"
+    ,"area":"4,978"
+    ,"density":"880"
+  },
+  {
+     "s.no":"43"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Solapur"
+    ,"code":"SO"
+    ,"headquarters":"Solapur"
+    ,"population":"43,15,527"
+    ,"area":"14,895"
+    ,"density":"290"
+  },
+  {
+     "s.no":"44"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Visakhapatnam"
+    ,"code":"VS"
+    ,"headquarters":"Visakhapatnam"
+    ,"population":"42,88,113"
+    ,"area":"11,161"
+    ,"density":"384"
+  },
+  {
+     "s.no":"45"
+    ,"state":"Bihar (BR)"
+    ,"district":"Samastipur"
+    ,"code":"SM"
+    ,"headquarters":"Samastipur"
+    ,"population":"42,54,782"
+    ,"area":"2,905"
+    ,"density":"1,465"
+  },
+  {
+     "s.no":"46"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Jalgaon"
+    ,"code":"JG"
+    ,"headquarters":"Jalgaon"
+    ,"population":"42,24,442"
+    ,"area":"11,765"
+    ,"density":"359"
+  },
+  {
+     "s.no":"47"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Chittoor"
+    ,"code":"CH"
+    ,"headquarters":"Chittoor"
+    ,"population":"41,70,468"
+    ,"area":"15,152"
+    ,"density":"275"
+  },
+  {
+     "s.no":"48"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Muzaffarnagar"
+    ,"code":"MU"
+    ,"headquarters":"Muzaffarnagar"
+    ,"population":"41,38,605"
+    ,"area":"4,008"
+    ,"density":"1,033"
+  },
+  {
+     "s.no":"49"
+    ,"state":"Kerala (KL)"
+    ,"district":"Malappuram"
+    ,"code":"MA"
+    ,"headquarters":"Malappuram"
+    ,"population":"41,10,956"
+    ,"area":"3,550"
+    ,"density":"1,058"
+  },
+  {
+     "s.no":"50"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Hardoi"
+    ,"code":"HR"
+    ,"headquarters":"Hardoi"
+    ,"population":"40,91,380"
+    ,"area":"5,986"
+    ,"density":"683"
+  },
+  {
+     "s.no":"51"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Anantapur"
+    ,"code":"AN"
+    ,"headquarters":"Anantapur"
+    ,"population":"40,83,315"
+    ,"area":"19,130"
+    ,"density":"213"
+  },
+  {
+     "s.no":"52"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Raipur"
+    ,"code":"RP"
+    ,"headquarters":"Raipur"
+    ,"population":"40,62,160"
+    ,"area":"13,083"
+    ,"density":"310"
+  },
+  {
+     "s.no":"53"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Kurnool"
+    ,"code":"KU"
+    ,"headquarters":"Kurnool"
+    ,"population":"40,46,601"
+    ,"area":"17,658"
+    ,"density":"229"
+  },
+  {
+     "s.no":"54"
+    ,"state":"Telangana (TS)"
+    ,"district":"Mahbubnagar"
+    ,"code":"MA"
+    ,"headquarters":"Mahbubnagar"
+    ,"population":"40,42,191"
+    ,"area":"18,432"
+    ,"density":"219"
+  },
+  {
+     "s.no":"55"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Lakhimpur Kheri"
+    ,"code":"LK"
+    ,"headquarters":"Lakhimpur"
+    ,"population":"40,13,634"
+    ,"area":"7,674"
+    ,"density":"523"
+  },
+  {
+     "s.no":"56"
+    ,"state":"Telangana (TS)"
+    ,"district":"Hyderabad"
+    ,"code":"HY"
+    ,"headquarters":"Hyderabad"
+    ,"population":"40,10,238"
+    ,"area":"217"
+    ,"density":"18,480"
+  },
+  {
+     "s.no":"57"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Maldah"
+    ,"code":"MA"
+    ,"headquarters":"English Bazar"
+    ,"population":"39,97,970"
+    ,"area":"3,733"
+    ,"density":"1,071"
+  },
+  {
+     "s.no":"58"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Madurai"
+    ,"code":"MA"
+    ,"headquarters":"Madurai"
+    ,"population":"39,91,038"
+    ,"area":"3,676"
+    ,"density":"823"
+  },
+  {
+     "s.no":"59"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Kanchipuram"
+    ,"code":"KC"
+    ,"headquarters":"Kanchipuram"
+    ,"population":"39,90,897"
+    ,"area":"4,433"
+    ,"density":"927"
+  },
+  {
+     "s.no":"60"
+    ,"state":"Bihar (BR)"
+    ,"district":"Saran"
+    ,"code":"SR"
+    ,"headquarters":"Chhapra"
+    ,"population":"39,43,098"
+    ,"area":"2,641"
+    ,"density":"1,493"
+  },
+  {
+     "s.no":"61"
+    ,"state":"Bihar (BR)"
+    ,"district":"West Champaran"
+    ,"code":"WC"
+    ,"headquarters":"Bettiah"
+    ,"population":"39,35,042"
+    ,"area":"5,229"
+    ,"density":"753"
+  },
+  {
+     "s.no":"62"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"West Godavari"
+    ,"code":"WG"
+    ,"headquarters":"Eluru"
+    ,"population":"39,34,782"
+    ,"area":"7,742"
+    ,"density":"508"
+  },
+  {
+     "s.no":"63"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Vellore"
+    ,"code":"VE"
+    ,"headquarters":"Vellore"
+    ,"population":"39,28,106"
+    ,"area":"6,077"
+    ,"density":"646"
+  },
+  {
+     "s.no":"64"
+    ,"state":"Bihar (BR)"
+    ,"district":"Darbhanga"
+    ,"code":"DA"
+    ,"headquarters":"Darbhanga"
+    ,"population":"39,21,971"
+    ,"area":"2,278"
+    ,"density":"1,721"
+  },
+  {
+     "s.no":"65"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Kolhapur"
+    ,"code":"KO"
+    ,"headquarters":"Kolhapur"
+    ,"population":"38,74,015"
+    ,"area":"7,685"
+    ,"density":"504"
+  },
+  {
+     "s.no":"66"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Jalpaiguri"
+    ,"code":"JA"
+    ,"headquarters":"Jalpaiguri"
+    ,"population":"38,69,675"
+    ,"area":"6,227"
+    ,"density":"621"
+  },
+  {
+     "s.no":"67"
+    ,"state":"Telangana (TS)"
+    ,"district":"Karimnagar"
+    ,"code":"KA"
+    ,"headquarters":"Karimnagar"
+    ,"population":"38,11,738"
+    ,"area":"11,823"
+    ,"density":"322"
+  },
+  {
+     "s.no":"68"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Sultanpur"
+    ,"code":"SU"
+    ,"headquarters":"Sultanpur"
+    ,"population":"37,90,922"
+    ,"area":"4,436"
+    ,"density":"855"
+  },
+  {
+     "s.no":"69"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Tiruvallur"
+    ,"code":"TL"
+    ,"headquarters":"Tiruvallur"
+    ,"population":"37,25,697"
+    ,"area":"3,424"
+    ,"density":"1,049"
+  },
+  {
+     "s.no":"70"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Budaun"
+    ,"code":"BD"
+    ,"headquarters":"Budaun"
+    ,"population":"37,12,738"
+    ,"area":"5,168"
+    ,"density":"718"
+  },
+  {
+     "s.no":"71"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Aurangabad"
+    ,"code":"AU"
+    ,"headquarters":"Aurangabad"
+    ,"population":"36,95,928"
+    ,"area":"10,107"
+    ,"density":"365"
+  },
+  {
+     "s.no":"72"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Jodhpur"
+    ,"code":"JO"
+    ,"headquarters":"Jodhpur"
+    ,"population":"36,85,681"
+    ,"area":"22,850"
+    ,"density":"161"
+  },
+  {
+     "s.no":"73"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Bijnor"
+    ,"code":"BI"
+    ,"headquarters":"Bijnor"
+    ,"population":"36,83,896"
+    ,"area":"4,561"
+    ,"density":"808"
+  },
+  {
+     "s.no":"74"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Varanasi"
+    ,"code":"VA"
+    ,"headquarters":"Varanasi"
+    ,"population":"36,82,194"
+    ,"area":"1,535"
+    ,"density":"2,399"
+  },
+  {
+     "s.no":"75"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Aligarh"
+    ,"code":"AL"
+    ,"headquarters":"Aligarh"
+    ,"population":"36,73,849"
+    ,"area":"3,747"
+    ,"density":"1,007"
+  },
+  {
+     "s.no":"76"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Alwar"
+    ,"code":"AL"
+    ,"headquarters":"Alwar"
+    ,"population":"36,71,999"
+    ,"area":"8,380"
+    ,"density":"438"
+  },
+  {
+     "s.no":"77"
+    ,"state":"Delhi (DL)"
+    ,"district":"North West Delhi"
+    ,"code":"NW"
+    ,"headquarters":"Kanjhawala"
+    ,"population":"36,51,261"
+    ,"area":"130"
+    ,"density":"8,298"
+  },
+  {
+     "s.no":"78"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Vadodara"
+    ,"code":"VD"
+    ,"headquarters":"Vadodara"
+    ,"population":"36,39,775"
+    ,"area":"7,794"
+    ,"density":"467"
+  },
+  {
+     "s.no":"79"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Ghazipur"
+    ,"code":"GP"
+    ,"headquarters":"Ghazipur"
+    ,"population":"36,22,727"
+    ,"area":"3,377"
+    ,"density":"1,072"
+  },
+  {
+     "s.no":"80"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Bankura"
+    ,"code":"BN"
+    ,"headquarters":"Bankura"
+    ,"population":"35,96,292"
+    ,"area":"6,882"
+    ,"density":"523"
+  },
+  {
+     "s.no":"81"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Kushinagar"
+    ,"code":"KU"
+    ,"headquarters":"Padrauna"
+    ,"population":"35,60,830"
+    ,"area":"2,909"
+    ,"density":"1,226"
+  },
+  {
+     "s.no":"82"
+    ,"state":"Telangana (TS)"
+    ,"district":"Warangal"
+    ,"code":"WA"
+    ,"headquarters":"Warangal"
+    ,"population":"35,22,644"
+    ,"area":"12,846"
+    ,"density":"274"
+  },
+  {
+     "s.no":"83"
+    ,"state":"Odisha (OD)"
+    ,"district":"Ganjam"
+    ,"code":"GN"
+    ,"headquarters":"Chhatrapur"
+    ,"population":"35,20,151"
+    ,"area":"8,033"
+    ,"density":"429"
+  },
+  {
+     "s.no":"84"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Birbhum"
+    ,"code":"BI"
+    ,"headquarters":"Suri"
+    ,"population":"35,02,387"
+    ,"area":"4,545"
+    ,"density":"771"
+  },
+  {
+     "s.no":"85"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Bulandshahr"
+    ,"code":"BU"
+    ,"headquarters":"Bulandshahr"
+    ,"population":"34,98,507"
+    ,"area":"3,719"
+    ,"density":"788"
+  },
+  {
+     "s.no":"86"
+    ,"state":"Bihar (BR)"
+    ,"district":"Vaishali"
+    ,"code":"VA"
+    ,"headquarters":"Hajipur"
+    ,"population":"34,95,021"
+    ,"area":"2,036"
+    ,"density":"1,717"
+  },
+  {
+     "s.no":"87"
+    ,"state":"Punjab (PB)"
+    ,"district":"Ludhiana"
+    ,"code":"LU"
+    ,"headquarters":"Ludhiana"
+    ,"population":"34,87,882"
+    ,"area":"3,744"
+    ,"density":"975"
+  },
+  {
+     "s.no":"88"
+    ,"state":"Telangana (TS)"
+    ,"district":"Nalgonda"
+    ,"code":"NA"
+    ,"headquarters":"Nalgonda"
+    ,"population":"34,83,648"
+    ,"area":"14,240"
+    ,"density":"245"
+  },
+  {
+     "s.no":"89"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Salem"
+    ,"code":"SA"
+    ,"headquarters":"Salem"
+    ,"population":"34,80,008"
+    ,"area":"5,245"
+    ,"density":"663"
+  },
+  {
+     "s.no":"90"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Coimbatore"
+    ,"code":"CO"
+    ,"headquarters":"Coimbatore"
+    ,"population":"34,72,578"
+    ,"area":"7,469"
+    ,"density":"748"
+  },
+  {
+     "s.no":"91"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Saharanpur"
+    ,"code":"SA"
+    ,"headquarters":"Saharanpur"
+    ,"population":"34,64,228"
+    ,"area":"3,689"
+    ,"density":"939"
+  },
+  {
+     "s.no":"92"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Viluppuram"
+    ,"code":"VL"
+    ,"headquarters":"Viluppuram"
+    ,"population":"34,63,284"
+    ,"area":"7,190"
+    ,"density":"462"
+  },
+  {
+     "s.no":"93"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Meerut"
+    ,"code":"ME"
+    ,"headquarters":"Meerut"
+    ,"population":"34,47,405"
+    ,"area":"2,522"
+    ,"density":"1,342"
+  },
+  {
+     "s.no":"94"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Gonda"
+    ,"code":"GN"
+    ,"headquarters":"Gonda"
+    ,"population":"34,31,386"
+    ,"area":"4,425"
+    ,"density":"857"
+  },
+  {
+     "s.no":"95"
+    ,"state":"Bihar (BR)"
+    ,"district":"Sitamarhi"
+    ,"code":"ST"
+    ,"headquarters":"Sitamarhi"
+    ,"population":"34,19,622"
+    ,"area":"2,199"
+    ,"density":"1,491"
+  },
+  {
+     "s.no":"96"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Raebareli"
+    ,"code":"RB"
+    ,"headquarters":"Raebareli"
+    ,"population":"34,04,004"
+    ,"area":"4,609"
+    ,"density":"739"
+  },
+  {
+     "s.no":"97"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Prakasam"
+    ,"code":"PR"
+    ,"headquarters":"Ongole"
+    ,"population":"33,92,764"
+    ,"area":"17,626"
+    ,"density":"192"
+  },
+  {
+     "s.no":"98"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Nanded"
+    ,"code":"ND"
+    ,"headquarters":"Nanded"
+    ,"population":"33,56,566"
+    ,"area":"10,528"
+    ,"density":"319"
+  },
+  {
+     "s.no":"99"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Durg"
+    ,"code":"DU"
+    ,"headquarters":"Durg"
+    ,"population":"33,43,079"
+    ,"area":"8,542"
+    ,"density":"391"
+  },
+  {
+     "s.no":"100"
+    ,"state":"Bihar (BR)"
+    ,"district":"Siwan"
+    ,"code":"SW"
+    ,"headquarters":"Siwan"
+    ,"population":"33,18,176"
+    ,"area":"2,219"
+    ,"density":"1,495"
+  },
+  {
+     "s.no":"101"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Nagaur"
+    ,"code":"NA"
+    ,"headquarters":"Nagaur"
+    ,"population":"33,09,234"
+    ,"area":"17,718"
+    ,"density":"187"
+  },
+  {
+     "s.no":"102"
+    ,"state":"Kerala (KL)"
+    ,"district":"Thiruvananthapuram"
+    ,"code":"TV"
+    ,"headquarters":"Thiruvananthapuram"
+    ,"population":"33,07,284"
+    ,"area":"2,192"
+    ,"density":"1,509"
+  },
+  {
+     "s.no":"103"
+    ,"state":"Kerala (KL)"
+    ,"district":"Ernakulam"
+    ,"code":"ER"
+    ,"headquarters":"Kakkanad"
+    ,"population":"32,79,860"
+    ,"area":"2,951"
+    ,"density":"1,069"
+  },
+  {
+     "s.no":"104"
+    ,"state":"Bihar (BR)"
+    ,"district":"Purnia"
+    ,"code":"PU"
+    ,"headquarters":"Purnia"
+    ,"population":"32,73,127"
+    ,"area":"3,228"
+    ,"density":"1,014"
+  },
+  {
+     "s.no":"105"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Indore"
+    ,"code":"IN"
+    ,"headquarters":"Indore"
+    ,"population":"32,72,335"
+    ,"area":"3,898"
+    ,"density":"839"
+  },
+  {
+     "s.no":"106"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Barabanki"
+    ,"code":"BB"
+    ,"headquarters":"Barabanki"
+    ,"population":"32,57,983"
+    ,"area":"3,825"
+    ,"density":"739"
+  },
+  {
+     "s.no":"107"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Ballia"
+    ,"code":"BL"
+    ,"headquarters":"Ballia"
+    ,"population":"32,23,642"
+    ,"area":"2,981"
+    ,"density":"1,081"
+  },
+  {
+     "s.no":"108"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Pratapgarh"
+    ,"code":"PR"
+    ,"headquarters":"Pratapgarh"
+    ,"population":"31,73,752"
+    ,"area":"3,717"
+    ,"density":"854"
+  },
+  {
+     "s.no":"109"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Rajkot"
+    ,"code":"RA"
+    ,"headquarters":"Rajkot"
+    ,"population":"31,57,676"
+    ,"area":"11,203"
+    ,"density":"282"
+  },
+  {
+     "s.no":"110"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Mumbai City"
+    ,"code":"MC"
+    ,"headquarters":"��"
+    ,"population":"31,45,966"
+    ,"area":"69"
+    ,"density":"20,038"
+  },
+  {
+     "s.no":"111"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Banaskantha"
+    ,"code":"BK"
+    ,"headquarters":"Palanpur"
+    ,"population":"31,16,045"
+    ,"area":"12,703"
+    ,"density":"290"
+  },
+  {
+     "s.no":"112"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Unnao"
+    ,"code":"UN"
+    ,"headquarters":"Unnao"
+    ,"population":"31,10,595"
+    ,"area":"4,561"
+    ,"density":"682"
+  },
+  {
+     "s.no":"113"
+    ,"state":"Kerala (KL)"
+    ,"district":"Thrissur"
+    ,"code":"TS"
+    ,"headquarters":"Thrissur"
+    ,"population":"31,10,327"
+    ,"area":"3,032"
+    ,"density":"1,026"
+  },
+  {
+     "s.no":"114"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Deoria"
+    ,"code":"DE"
+    ,"headquarters":"Deoria"
+    ,"population":"30,98,637"
+    ,"area":"2,535"
+    ,"density":"1,220"
+  },
+  {
+     "s.no":"115"
+    ,"state":"Kerala (KL)"
+    ,"district":"Kozhikode"
+    ,"code":"KZ"
+    ,"headquarters":"Kozhikode"
+    ,"population":"30,89,543"
+    ,"area":"2,345"
+    ,"density":"1,318"
+  },
+  {
+     "s.no":"116"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Tirunelveli"
+    ,"code":"TI"
+    ,"headquarters":"Tirunelveli"
+    ,"population":"30,72,880"
+    ,"area":"6,703"
+    ,"density":"458"
+  },
+  {
+     "s.no":"117"
+    ,"state":"Bihar (BR)"
+    ,"district":"Katihar"
+    ,"code":"KT"
+    ,"headquarters":"Katihar"
+    ,"population":"30,68,149"
+    ,"area":"3,056"
+    ,"density":"1,004"
+  },
+  {
+     "s.no":"118"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Udaipur"
+    ,"code":"UD"
+    ,"headquarters":"Udaipur"
+    ,"population":"30,67,549"
+    ,"area":"13,430"
+    ,"density":"242"
+  },
+  {
+     "s.no":"119"
+    ,"state":"Bihar (BR)"
+    ,"district":"Bhagalpur"
+    ,"code":"BG"
+    ,"headquarters":"Bhagalpur"
+    ,"population":"30,32,226"
+    ,"area":"2,569"
+    ,"density":"1,180"
+  },
+  {
+     "s.no":"120"
+    ,"state":"Telangana (TS)"
+    ,"district":"Medak"
+    ,"code":"ME"
+    ,"headquarters":"Sangareddi"
+    ,"population":"30,31,877"
+    ,"area":"9,699"
+    ,"density":"313"
+  },
+  {
+     "s.no":"121"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Satara"
+    ,"code":"ST"
+    ,"headquarters":"Satara"
+    ,"population":"30,03,922"
+    ,"area":"10,475"
+    ,"density":"287"
+  },
+  {
+     "s.no":"122"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Shahjahanpur"
+    ,"code":"SJ"
+    ,"headquarters":"Shahjahanpur"
+    ,"population":"30,02,376"
+    ,"area":"4,575"
+    ,"density":"673"
+  },
+  {
+     "s.no":"123"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Uttar Dinajpur"
+    ,"code":"UD"
+    ,"headquarters":"Raiganj"
+    ,"population":"30,00,849"
+    ,"area":"3,180"
+    ,"density":"956"
+  },
+  {
+     "s.no":"124"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Mysore"
+    ,"code":"MY"
+    ,"headquarters":"Mysore"
+    ,"population":"29,94,744"
+    ,"area":"6,854"
+    ,"density":"437"
+  },
+  {
+     "s.no":"125"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Sri Potti Sriramulu Nellore"
+    ,"code":"NE"
+    ,"headquarters":"Nellore"
+    ,"population":"29,66,082"
+    ,"area":"13,076"
+    ,"density":"227"
+  },
+  {
+     "s.no":"126"
+    ,"state":"Bihar (BR)"
+    ,"district":"Rohtas"
+    ,"code":"RO"
+    ,"headquarters":"Sasaram"
+    ,"population":"29,62,593"
+    ,"area":"3,850"
+    ,"density":"763"
+  },
+  {
+     "s.no":"127"
+    ,"state":"Bihar (BR)"
+    ,"district":"Begusarai"
+    ,"code":"BE"
+    ,"headquarters":"Begusarai"
+    ,"population":"29,54,367"
+    ,"area":"1,917"
+    ,"density":"1,540"
+  },
+  {
+     "s.no":"128"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Purulia"
+    ,"code":"PU"
+    ,"headquarters":"Purulia"
+    ,"population":"29,27,965"
+    ,"area":"6,259"
+    ,"density":"468"
+  },
+  {
+     "s.no":"129"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Ranchi"
+    ,"code":"RA"
+    ,"headquarters":"Ranchi"
+    ,"population":"29,12,022"
+    ,"area":"7,974"
+    ,"density":"557"
+  },
+  {
+     "s.no":"130"
+    ,"state":"Punjab (PB)"
+    ,"district":"Patiala"
+    ,"code":"PA"
+    ,"headquarters":"Patiala"
+    ,"population":"28,92,282"
+    ,"area":"3,175"
+    ,"density":"596"
+  },
+  {
+     "s.no":"131"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Amravati"
+    ,"code":"AM"
+    ,"headquarters":"Amravati"
+    ,"population":"28,87,826"
+    ,"area":"12,235"
+    ,"density":"237"
+  },
+  {
+     "s.no":"132"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Kadapa"
+    ,"code":"CU"
+    ,"headquarters":"Kadapa"
+    ,"population":"28,84,524"
+    ,"area":"15,359"
+    ,"density":"188"
+  },
+  {
+     "s.no":"133"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Bhavnagar"
+    ,"code":"BV"
+    ,"headquarters":"Bhavnagar"
+    ,"population":"28,77,961"
+    ,"area":"11,155"
+    ,"density":"288"
+  },
+  {
+     "s.no":"134"
+    ,"state":"Bihar (BR)"
+    ,"district":"Nalanda"
+    ,"code":"NL"
+    ,"headquarters":"Bihar Sharif"
+    ,"population":"28,72,523"
+    ,"area":"2,354"
+    ,"density":"1,220"
+  },
+  {
+     "s.no":"135"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Kanyakumari"
+    ,"code":"KK"
+    ,"headquarters":"Nagercoil"
+    ,"population":"28,63,178"
+    ,"area":"1,685"
+    ,"density":"1,106"
+  },
+  {
+     "s.no":"136"
+    ,"state":"Assam (AS)"
+    ,"district":"Nagaon"
+    ,"code":"NG"
+    ,"headquarters":"Nagaon"
+    ,"population":"28,26,006"
+    ,"area":"3,831"
+    ,"density":"711"
+  },
+  {
+     "s.no":"137"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Cooch Behar"
+    ,"code":"KB"
+    ,"headquarters":"Cooch Behar"
+    ,"population":"28,22,780"
+    ,"area":"3,387"
+    ,"density":"833"
+  },
+  {
+     "s.no":"138"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Sangli"
+    ,"code":"SN"
+    ,"headquarters":"Sangli"
+    ,"population":"28,20,575"
+    ,"area":"8,572"
+    ,"density":"329"
+  },
+  {
+     "s.no":"139"
+    ,"state":"Kerala (KL)"
+    ,"district":"Palakkad"
+    ,"code":"PL"
+    ,"headquarters":"Palakkad"
+    ,"population":"28,10,892"
+    ,"area":"4,480"
+    ,"density":"627"
+  },
+  {
+     "s.no":"140"
+    ,"state":"Bihar (BR)"
+    ,"district":"Araria"
+    ,"code":"AR"
+    ,"headquarters":"Araria"
+    ,"population":"28,06,200"
+    ,"area":"2,829"
+    ,"density":"992"
+  },
+  {
+     "s.no":"141"
+    ,"state":"Telangana (TS)"
+    ,"district":"Khammam"
+    ,"code":"KH"
+    ,"headquarters":"Khammam"
+    ,"population":"27,98,214"
+    ,"area":"16,029"
+    ,"density":"175"
+  },
+  {
+     "s.no":"142"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Yavatmal"
+    ,"code":"YA"
+    ,"headquarters":"Yavatmal"
+    ,"population":"27,75,457"
+    ,"area":"13,582"
+    ,"density":"204"
+  },
+  {
+     "s.no":"143"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Junagadh"
+    ,"code":"JU"
+    ,"headquarters":"Junagadh"
+    ,"population":"27,42,291"
+    ,"area":"8,839"
+    ,"density":"310"
+  },
+  {
+     "s.no":"144"
+    ,"state":"Telangana (TS)"
+    ,"district":"Adilabad"
+    ,"code":"AD"
+    ,"headquarters":"Adilabad"
+    ,"population":"27,37,738"
+    ,"area":"16,105"
+    ,"density":"170"
+  },
+  {
+     "s.no":"145"
+    ,"state":"Delhi (DL)"
+    ,"district":"South Delhi"
+    ,"code":"SD"
+    ,"headquarters":"Saket"
+    ,"population":"27,33,752"
+    ,"area":"250"
+    ,"density":"10,935"
+  },
+  {
+     "s.no":"146"
+    ,"state":"Bihar (BR)"
+    ,"district":"Bhojpur"
+    ,"code":"BJ"
+    ,"headquarters":"Arrah"
+    ,"population":"27,20,155"
+    ,"area":"2,473"
+    ,"density":"1,136"
+  },
+  {
+     "s.no":"147"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Tiruchirappalli"
+    ,"code":"TC"
+    ,"headquarters":"Tiruchirappalli"
+    ,"population":"27,13,858"
+    ,"area":"4,407"
+    ,"density":"602"
+  },
+  {
+     "s.no":"148"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Srikakulam"
+    ,"code":"SR"
+    ,"headquarters":"Srikakulam"
+    ,"population":"26,99,471"
+    ,"area":"5,837"
+    ,"density":"462"
+  },
+  {
+     "s.no":"149"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Dhanbad"
+    ,"code":"DH"
+    ,"headquarters":"Dhanbad"
+    ,"population":"26,82,662"
+    ,"area":"2,075"
+    ,"density":"1,284"
+  },
+  {
+     "s.no":"150"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Tumkur"
+    ,"code":"TU"
+    ,"headquarters":"Tumkur"
+    ,"population":"26,81,449"
+    ,"area":"10,598"
+    ,"density":"253"
+  },
+  {
+     "s.no":"151"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Sikar"
+    ,"code":"SK"
+    ,"headquarters":"Sikar"
+    ,"population":"26,77,737"
+    ,"area":"7,732"
+    ,"density":"346"
+  },
+  {
+     "s.no":"152"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Maharajganj"
+    ,"code":"MG"
+    ,"headquarters":"Maharajganj"
+    ,"population":"26,65,292"
+    ,"area":"2,953"
+    ,"density":"903"
+  },
+  {
+     "s.no":"153"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Bilaspur"
+    ,"code":"BI"
+    ,"headquarters":"Bilaspur"
+    ,"population":"26,62,077"
+    ,"area":"6377"
+    ,"density":"322"
+  },
+  {
+     "s.no":"154"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Raigad"
+    ,"code":"RG"
+    ,"headquarters":"Alibag"
+    ,"population":"26,35,394"
+    ,"area":"7,152"
+    ,"density":"368"
+  },
+  {
+     "s.no":"155"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Fatehpur"
+    ,"code":"FT"
+    ,"headquarters":"Fatehpur"
+    ,"population":"26,32,684"
+    ,"area":"4,152"
+    ,"density":"634"
+  },
+  {
+     "s.no":"156"
+    ,"state":"Kerala (KL)"
+    ,"district":"Kollam"
+    ,"code":"KL"
+    ,"headquarters":"Kollam"
+    ,"population":"26,29,703"
+    ,"area":"2,498"
+    ,"density":"1,056"
+  },
+  {
+     "s.no":"157"
+    ,"state":"Odisha (OD)"
+    ,"district":"Cuttack"
+    ,"code":"CU"
+    ,"headquarters":"Cuttack"
+    ,"population":"26,18,708"
+    ,"area":"3,915"
+    ,"density":"666"
+  },
+  {
+     "s.no":"158"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Barmer"
+    ,"code":"BM"
+    ,"headquarters":"Barmer"
+    ,"population":"26,04,453"
+    ,"area":"28,387"
+    ,"density":"92"
+  },
+  {
+     "s.no":"159"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Cuddalore"
+    ,"code":"CU"
+    ,"headquarters":"Cuddalore"
+    ,"population":"26,00,880"
+    ,"area":"3,999"
+    ,"density":"702"
+  },
+  {
+     "s.no":"160"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Buldhana"
+    ,"code":"BU"
+    ,"headquarters":"Buldhana"
+    ,"population":"25,88,039"
+    ,"area":"9,661"
+    ,"density":"268"
+  },
+  {
+     "s.no":"161"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Beed"
+    ,"code":"BI"
+    ,"headquarters":"Beed"
+    ,"population":"25,85,962"
+    ,"area":"10,693"
+    ,"density":"242"
+  },
+  {
+     "s.no":"162"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Ajmer"
+    ,"code":"AJ"
+    ,"headquarters":"Ajmer"
+    ,"population":"25,84,913"
+    ,"area":"8,481"
+    ,"density":"305"
+  },
+  {
+     "s.no":"163"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Gulbarga"
+    ,"code":"GU"
+    ,"headquarters":"Gulbarga"
+    ,"population":"25,64,892"
+    ,"area":"10,990"
+    ,"density":"233"
+  },
+  {
+     "s.no":"164"
+    ,"state":"Bihar (BR)"
+    ,"district":"Gopalganj"
+    ,"code":"GO"
+    ,"headquarters":"Gopalganj"
+    ,"population":"25,58,037"
+    ,"area":"2,033"
+    ,"density":"1,258"
+  },
+  {
+     "s.no":"165"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Siddharthnagar"
+    ,"code":"SN"
+    ,"headquarters":"Navgarh"
+    ,"population":"25,53,526"
+    ,"area":"2,751"
+    ,"density":"882"
+  },
+  {
+     "s.no":"166"
+    ,"state":"Telangana (TS)"
+    ,"district":"Nizamabad"
+    ,"code":"NI"
+    ,"headquarters":"Nizamabad"
+    ,"population":"25,52,073"
+    ,"area":"7,956"
+    ,"density":"321"
+  },
+  {
+     "s.no":"167"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Bharatpur"
+    ,"code":"BP"
+    ,"headquarters":"Bharatpur"
+    ,"population":"25,49,121"
+    ,"area":"5,066"
+    ,"density":"503"
+  },
+  {
+     "s.no":"168"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Mathura"
+    ,"code":"MT"
+    ,"headquarters":"Mathura"
+    ,"population":"25,41,894"
+    ,"area":"3,333"
+    ,"density":"761"
+  },
+  {
+     "s.no":"169"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Bellary"
+    ,"code":"BL"
+    ,"headquarters":"Bellary"
+    ,"population":"25,32,383"
+    ,"area":"8,439"
+    ,"density":"300"
+  },
+  {
+     "s.no":"170"
+    ,"state":"Delhi (DL)"
+    ,"district":"West Delhi"
+    ,"code":"WD"
+    ,"headquarters":"Rajouri Garden"
+    ,"population":"25,31,583"
+    ,"area":"112"
+    ,"density":"19,625"
+  },
+  {
+     "s.no":"171"
+    ,"state":"Kerala (KL)"
+    ,"district":"Kannur"
+    ,"code":"KN"
+    ,"headquarters":"Kannur"
+    ,"population":"25,25,637"
+    ,"area":"2,966"
+    ,"density":"852"
+  },
+  {
+     "s.no":"172"
+    ,"state":"Odisha (OD)"
+    ,"district":"Mayurbhanj"
+    ,"code":"MY"
+    ,"headquarters":"Baripada"
+    ,"population":"25,13,895"
+    ,"area":"10,418"
+    ,"density":"241"
+  },
+  {
+     "s.no":"173"
+    ,"state":"Bihar (BR)"
+    ,"district":"Aurangabad"
+    ,"code":"AU"
+    ,"headquarters":"Aurangabad"
+    ,"population":"25,11,243"
+    ,"area":"3,303"
+    ,"density":"760"
+  },
+  {
+     "s.no":"174"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Firozabad"
+    ,"code":"FI"
+    ,"headquarters":"Firozabad"
+    ,"population":"24,96,761"
+    ,"area":"2,361"
+    ,"density":"1,044"
+  },
+  {
+     "s.no":"175"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Mirzapur"
+    ,"code":"MI"
+    ,"headquarters":"Mirzapur"
+    ,"population":"24,94,533"
+    ,"area":"4,522"
+    ,"density":"561"
+  },
+  {
+     "s.no":"176"
+    ,"state":"Punjab (PB)"
+    ,"district":"Amritsar"
+    ,"code":"AM"
+    ,"headquarters":"Amritsar"
+    ,"population":"24,90,891"
+    ,"area":"2,673"
+    ,"density":"932"
+  },
+  {
+     "s.no":"177"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Tirupur"
+    ,"code":"TP"
+    ,"headquarters":"Tirupur"
+    ,"population":"24,71,222"
+    ,"area":"5,106"
+    ,"density":"476"
+  },
+  {
+     "s.no":"178"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Tiruvannamalai"
+    ,"code":"TV"
+    ,"headquarters":"Tiruvannaamalai"
+    ,"population":"24,68,965"
+    ,"area":"6,191"
+    ,"density":"399"
+  },
+  {
+     "s.no":"179"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Faizabad"
+    ,"code":"FZ"
+    ,"headquarters":"Faizabad"
+    ,"population":"24,68,371"
+    ,"area":"2,765"
+    ,"density":"1,054"
+  },
+  {
+     "s.no":"180"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Basti"
+    ,"code":"BS"
+    ,"headquarters":"Basti"
+    ,"population":"24,61,056"
+    ,"area":"2,687"
+    ,"density":"916"
+  },
+  {
+     "s.no":"181"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Jabalpur"
+    ,"code":"JA"
+    ,"headquarters":"Jabalpur"
+    ,"population":"24,60,714"
+    ,"area":"5,210"
+    ,"density":"472"
+  },
+  {
+     "s.no":"182"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Latur"
+    ,"code":"LA"
+    ,"headquarters":"Latur"
+    ,"population":"24,55,543"
+    ,"area":"7,157"
+    ,"density":"343"
+  },
+  {
+     "s.no":"183"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Giridih"
+    ,"code":"GI"
+    ,"headquarters":"Giridih"
+    ,"population":"24,45,203"
+    ,"area":"4,887"
+    ,"density":"497"
+  },
+  {
+     "s.no":"184"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Sabarkantha"
+    ,"code":"SK"
+    ,"headquarters":"Himatnagar"
+    ,"population":"24,27,346"
+    ,"area":"7,390"
+    ,"density":"328"
+  },
+  {
+     "s.no":"185"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Bhilwara"
+    ,"code":"BW"
+    ,"headquarters":"Bhilwara"
+    ,"population":"24,10,459"
+    ,"area":"10,455"
+    ,"density":"230"
+  },
+  {
+     "s.no":"186"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Thanjavur"
+    ,"code":"TJ"
+    ,"headquarters":"Thanjavur"
+    ,"population":"24,02,781"
+    ,"area":"3,397"
+    ,"density":"691"
+  },
+  {
+     "s.no":"187"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Ambedkar Nagar"
+    ,"code":"AN"
+    ,"headquarters":"Akbarpur"
+    ,"population":"23,98,709"
+    ,"area":"2,372"
+    ,"density":"1,021"
+  },
+  {
+     "s.no":"188"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Panchmahal"
+    ,"code":"PM"
+    ,"headquarters":"Godhra"
+    ,"population":"23,88,267"
+    ,"area":"5,219"
+    ,"density":"458"
+  },
+  {
+     "s.no":"189"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Bahraich"
+    ,"code":"BH"
+    ,"headquarters":"Bahraich"
+    ,"population":"23,84,239"
+    ,"area":"4,926"
+    ,"density":"415"
+  },
+  {
+     "s.no":"190"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Sagar"
+    ,"code":"SG"
+    ,"headquarters":"Sagar"
+    ,"population":"23,78,295"
+    ,"area":"10,252"
+    ,"density":"272"
+  },
+  {
+     "s.no":"191"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Bhopal"
+    ,"code":"BP"
+    ,"headquarters":"Bhopal"
+    ,"population":"23,68,145"
+    ,"area":"2,772"
+    ,"density":"854"
+  },
+  {
+     "s.no":"192"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Bikaner"
+    ,"code":"BI"
+    ,"headquarters":"Bikaner"
+    ,"population":"23,67,745"
+    ,"area":"27,244"
+    ,"density":"78"
+  },
+  {
+     "s.no":"193"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Rewa"
+    ,"code":"RE"
+    ,"headquarters":"Rewa"
+    ,"population":"23,63,744"
+    ,"area":"6,314"
+    ,"density":"374"
+  },
+  {
+     "s.no":"194"
+    ,"state":"Andhra Pradesh (AP)"
+    ,"district":"Vizianagaram"
+    ,"code":"VZ"
+    ,"headquarters":"Vizianagaram"
+    ,"population":"23,42,868"
+    ,"area":"6,539"
+    ,"density":"358"
+  },
+  {
+     "s.no":"195"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Rampur"
+    ,"code":"RA"
+    ,"headquarters":"Rampur"
+    ,"population":"23,35,398"
+    ,"area":"2,367"
+    ,"density":"987"
+  },
+  {
+     "s.no":"196"
+    ,"state":"Odisha (OD)"
+    ,"district":"Balasore"
+    ,"code":"BW"
+    ,"headquarters":"Balasore"
+    ,"population":"23,17,419"
+    ,"area":"3,706"
+    ,"density":"609"
+  },
+  {
+     "s.no":"197"
+    ,"state":"Punjab (PB)"
+    ,"district":"Gurdaspur"
+    ,"code":"GU"
+    ,"headquarters":"Gurdaspur"
+    ,"population":"22,99,026"
+    ,"area":"3,542"
+    ,"density":"649"
+  },
+  {
+     "s.no":"198"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Kheda"
+    ,"code":"KH"
+    ,"headquarters":"Nadiad"
+    ,"population":"22,98,934"
+    ,"area":"4,215"
+    ,"density":"541"
+  },
+  {
+     "s.no":"199"
+    ,"state":"Delhi (DL)"
+    ,"district":"South West Delhi"
+    ,"code":"SW"
+    ,"headquarters":"Vasant Vihar"
+    ,"population":"22,92,363"
+    ,"area":"395"
+    ,"density":"5,445"
+  },
+  {
+     "s.no":"200"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"East Singhbhum"
+    ,"code":"ES"
+    ,"headquarters":"Jamshedpur"
+    ,"population":"22,91,032"
+    ,"area":"3,533"
+    ,"density":"648"
+  },
+  {
+     "s.no":"201"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Erode"
+    ,"code":"ER"
+    ,"headquarters":"Erode"
+    ,"population":"22,59,608"
+    ,"area":"5,714"
+    ,"density":"397"
+  },
+  {
+     "s.no":"202"
+    ,"state":"Odisha (OD)"
+    ,"district":"Khordha"
+    ,"code":"KH"
+    ,"headquarters":"Khordha"
+    ,"population":"22,46,341"
+    ,"area":"2,888"
+    ,"density":"799"
+  },
+  {
+     "s.no":"203"
+    ,"state":"Delhi (DL)"
+    ,"district":"North East Delhi"
+    ,"code":"NE"
+    ,"headquarters":"Shahdara"
+    ,"population":"22,40,749"
+    ,"area":"52"
+    ,"density":"37,346"
+  },
+  {
+     "s.no":"204"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Satna"
+    ,"code":"ST"
+    ,"headquarters":"Satna"
+    ,"population":"22,28,619"
+    ,"area":"7,502"
+    ,"density":"297"
+  },
+  {
+     "s.no":"205"
+    ,"state":"Bihar (BR)"
+    ,"district":"Supaul"
+    ,"code":"SU"
+    ,"headquarters":"Supaul"
+    ,"population":"22,28,397"
+    ,"area":"2,410"
+    ,"density":"919"
+  },
+  {
+     "s.no":"206"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Sambhal(Bheem Nagar)"
+    ,"code":"SM"
+    ,"headquarters":"Sambhal"
+    ,"population":"22,17,020"
+    ,"area":"-"
+    ,"density":"-"
+  },
+  {
+     "s.no":"207"
+    ,"state":"Bihar (BR)"
+    ,"district":"Nawada"
+    ,"code":"NW"
+    ,"headquarters":"Nawada"
+    ,"population":"22,16,653"
+    ,"area":"2,492"
+    ,"density":"889"
+  },
+  {
+     "s.no":"208"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Mau"
+    ,"code":"MB"
+    ,"headquarters":"Mau"
+    ,"population":"22,05,170"
+    ,"area":"1,713"
+    ,"density":"1,287"
+  },
+  {
+     "s.no":"209"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Chandrapur"
+    ,"code":"CH"
+    ,"headquarters":"Chandrapur"
+    ,"population":"21,94,262"
+    ,"area":"11,443"
+    ,"density":"192"
+  },
+  {
+     "s.no":"210"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Dhar"
+    ,"code":"DH"
+    ,"headquarters":"Dhar"
+    ,"population":"21,84,672"
+    ,"area":"8,153"
+    ,"density":"268"
+  },
+  {
+     "s.no":"211"
+    ,"state":"Punjab (PB)"
+    ,"district":"Jalandhar"
+    ,"code":"JA"
+    ,"headquarters":"Jalandhar"
+    ,"population":"21,81,753"
+    ,"area":"2,625"
+    ,"density":"831"
+  },
+  {
+     "s.no":"212"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Vijayapura"
+    ,"code":"BJ"
+    ,"headquarters":"Vijayapura"
+    ,"population":"21,75,102"
+    ,"area":"10,517"
+    ,"density":"207"
+  },
+  {
+     "s.no":"213"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Dindigul"
+    ,"code":"DI"
+    ,"headquarters":"Dindigul"
+    ,"population":"21,61,367"
+    ,"area":"6,058"
+    ,"density":"357"
+  },
+  {
+     "s.no":"214"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Jamnagar"
+    ,"code":"JA"
+    ,"headquarters":"Jamnagar"
+    ,"population":"21,59,130"
+    ,"area":"14,125"
+    ,"density":"153"
+  },
+  {
+     "s.no":"215"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Balrampur"
+    ,"code":"BP"
+    ,"headquarters":"Balrampur"
+    ,"population":"21,49,066"
+    ,"area":"3,349"
+    ,"density":"642"
+  },
+  {
+     "s.no":"216"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Jhunjhunu"
+    ,"code":"JJ"
+    ,"headquarters":"Jhunjhunu"
+    ,"population":"21,39,658"
+    ,"area":"5,928"
+    ,"density":"361"
+  },
+  {
+     "s.no":"217"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Dahod"
+    ,"code":"DA"
+    ,"headquarters":"Dahod"
+    ,"population":"21,26,558"
+    ,"area":"3,642"
+    ,"density":"582"
+  },
+  {
+     "s.no":"218"
+    ,"state":"Kerala (KL)"
+    ,"district":"Alappuzha"
+    ,"code":"AL"
+    ,"headquarters":"Alappuzha"
+    ,"population":"21,21,943"
+    ,"area":"1,414"
+    ,"density":"1,501"
+  },
+  {
+     "s.no":"219"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Kutch"
+    ,"code":"KA"
+    ,"headquarters":"Bhuj"
+    ,"population":"20,90,313"
+    ,"area":"45,652"
+    ,"density":"46"
+  },
+  {
+     "s.no":"220"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Chhindwara"
+    ,"code":"CN"
+    ,"headquarters":"Chhindwara"
+    ,"population":"20,90,306"
+    ,"area":"11,815"
+    ,"density":"177"
+  },
+  {
+     "s.no":"221"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Anand"
+    ,"code":"AN"
+    ,"headquarters":"Anand"
+    ,"population":"20,90,276"
+    ,"area":"2,942"
+    ,"density":"711"
+  },
+  {
+     "s.no":"222"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Dakshina Kannada"
+    ,"code":"DK"
+    ,"headquarters":"Mangalore"
+    ,"population":"20,83,625"
+    ,"area":"4,559"
+    ,"density":"457"
+  },
+  {
+     "s.no":"223"
+    ,"state":"Odisha (OD)"
+    ,"district":"Sundargarh"
+    ,"code":"SU"
+    ,"headquarters":"Sundargarh"
+    ,"population":"20,80,664"
+    ,"area":"9,942"
+    ,"density":"214"
+  },
+  {
+     "s.no":"224"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Bokaro"
+    ,"code":"BO"
+    ,"headquarters":"Bokaro"
+    ,"population":"20,61,918"
+    ,"area":"2,861"
+    ,"density":"716"
+  },
+  {
+     "s.no":"225"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Dhule"
+    ,"code":"DH"
+    ,"headquarters":"Dhule"
+    ,"population":"20,48,781"
+    ,"area":"8,095"
+    ,"density":"285"
+  },
+  {
+     "s.no":"226"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Churu"
+    ,"code":"CR"
+    ,"headquarters":"Churu"
+    ,"population":"20,41,172"
+    ,"area":"16,830"
+    ,"density":"148"
+  },
+  {
+     "s.no":"227"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Pali"
+    ,"code":"PA"
+    ,"headquarters":"Pali"
+    ,"population":"20,38,533"
+    ,"area":"12,387"
+    ,"density":"165"
+  },
+  {
+     "s.no":"228"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Pilibhit"
+    ,"code":"PI"
+    ,"headquarters":"Pilibhit"
+    ,"population":"20,37,225"
+    ,"area":"3,499"
+    ,"density":"567"
+  },
+  {
+     "s.no":"229"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Gwalior"
+    ,"code":"GW"
+    ,"headquarters":"Gwalior"
+    ,"population":"20,30,543"
+    ,"area":"5,465"
+    ,"density":"445"
+  },
+  {
+     "s.no":"230"
+    ,"state":"Bihar (BR)"
+    ,"district":"Banka"
+    ,"code":"BA"
+    ,"headquarters":"Banka"
+    ,"population":"20,29,339"
+    ,"area":"3,018"
+    ,"density":"672"
+  },
+  {
+     "s.no":"231"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Mehsana"
+    ,"code":"MA"
+    ,"headquarters":"Mehsana"
+    ,"population":"20,27,727"
+    ,"area":"4,386"
+    ,"density":"462"
+  },
+  {
+     "s.no":"232"
+    ,"state":"Punjab (PB)"
+    ,"district":"Firozpur"
+    ,"code":"FI"
+    ,"headquarters":"Firozpur"
+    ,"population":"20,26,831"
+    ,"area":"5,334"
+    ,"density":"380"
+  },
+  {
+     "s.no":"233"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Jhansi"
+    ,"code":"JH"
+    ,"headquarters":"Jhansi"
+    ,"population":"20,00,755"
+    ,"area":"5,024"
+    ,"density":"398"
+  },
+  {
+     "s.no":"234"
+    ,"state":"Punjab (PB)"
+    ,"district":"Pathankot"
+    ,"code":"PA"
+    ,"headquarters":"Pathankot"
+    ,"population":"19,98,464"
+    ,"area":""
+    ,"density":"398"
+  },
+  {
+     "s.no":"235"
+    ,"state":"Bihar (BR)"
+    ,"district":"Madhepura"
+    ,"code":"MP"
+    ,"headquarters":"Madhepura"
+    ,"population":"19,94,618"
+    ,"area":"1,787"
+    ,"density":"1,116"
+  },
+  {
+     "s.no":"236"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Ujjain"
+    ,"code":"UJ"
+    ,"headquarters":"Ujjain"
+    ,"population":"19,86,597"
+    ,"area":"6,091"
+    ,"density":"356"
+  },
+  {
+     "s.no":"237"
+    ,"state":"Kerala (KL)"
+    ,"district":"Kottayam"
+    ,"code":"KT"
+    ,"headquarters":"Kottayam"
+    ,"population":"19,79,384"
+    ,"area":"2,203"
+    ,"density":"896"
+  },
+  {
+     "s.no":"238"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Ganganagar"
+    ,"code":"GA"
+    ,"headquarters":"Ganganagar"
+    ,"population":"19,69,520"
+    ,"area":"10,990"
+    ,"density":"179"
+  },
+  {
+     "s.no":"239"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Morena"
+    ,"code":"MO"
+    ,"headquarters":"Morena"
+    ,"population":"19,65,137"
+    ,"area":"4,991"
+    ,"density":"394"
+  },
+  {
+     "s.no":"240"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Jalna"
+    ,"code":"JN"
+    ,"headquarters":"Jalna"
+    ,"population":"19,58,483"
+    ,"area":"7,718"
+    ,"density":"255"
+  },
+  {
+     "s.no":"241"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Chandauli"
+    ,"code":"CD"
+    ,"headquarters":"Chandauli"
+    ,"population":"19,52,713"
+    ,"area":"2,554"
+    ,"density":"768"
+  },
+  {
+     "s.no":"242"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Kota"
+    ,"code":"KO"
+    ,"headquarters":"Kota"
+    ,"population":"19,50,491"
+    ,"area":"5,446"
+    ,"density":"374"
+  },
+  {
+     "s.no":"243"
+    ,"state":"Assam (AS)"
+    ,"district":"Dhubri"
+    ,"code":"DB"
+    ,"headquarters":"Dhubri"
+    ,"population":"19,48,632"
+    ,"area":"2,838"
+    ,"density":"683"
+  },
+  {
+     "s.no":"244"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Davanagere"
+    ,"code":"DA"
+    ,"headquarters":"Davangere"
+    ,"population":"19,46,905"
+    ,"area":"5,926"
+    ,"density":"329"
+  },
+  {
+     "s.no":"245"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Virudhunagar"
+    ,"code":"VR"
+    ,"headquarters":"Virudhunagar"
+    ,"population":"19,43,309"
+    ,"area":"3,446"
+    ,"density":"454"
+  },
+  {
+     "s.no":"246"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Palamu"
+    ,"code":"PL"
+    ,"headquarters":"Daltonganj"
+    ,"population":"19,36,319"
+    ,"area":"5,082"
+    ,"density":"381"
+  },
+  {
+     "s.no":"247"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Haridwar"
+    ,"code":"HA"
+    ,"headquarters":"Haridwar"
+    ,"population":"19,27,029"
+    ,"area":"2,360"
+    ,"density":"817"
+  },
+  {
+     "s.no":"248"
+    ,"state":"Assam (AS)"
+    ,"district":"Sonitpur"
+    ,"code":"SO"
+    ,"headquarters":"Tezpur"
+    ,"population":"19,25,975"
+    ,"area":"5,324"
+    ,"density":"365"
+  },
+  {
+     "s.no":"249"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Raichur"
+    ,"code":"RA"
+    ,"headquarters":"Raichur"
+    ,"population":"19,24,773"
+    ,"area":"6,839"
+    ,"density":"228"
+  },
+  {
+     "s.no":"250"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Pudukkottai"
+    ,"code":"PU"
+    ,"headquarters":"Pudukkottai"
+    ,"population":"19,18,725"
+    ,"area":"4,651"
+    ,"density":"348"
+  },
+  {
+     "s.no":"251"
+    ,"state":"Bihar (BR)"
+    ,"district":"Saharsa"
+    ,"code":"SH"
+    ,"headquarters":"Saharsa"
+    ,"population":"18,97,102"
+    ,"area":"1,702"
+    ,"density":"1,125"
+  },
+  {
+     "s.no":"252"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Bagalkot"
+    ,"code":"BK"
+    ,"headquarters":"Bagalkot"
+    ,"population":"18,90,826"
+    ,"area":"6,583"
+    ,"density":"288"
+  },
+  {
+     "s.no":"253"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Farrukhabad"
+    ,"code":"FR"
+    ,"headquarters":"Fatehgarh"
+    ,"population":"18,87,577"
+    ,"area":"2,279"
+    ,"density":"865"
+  },
+  {
+     "s.no":"254"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Krishnagiri"
+    ,"code":"KR"
+    ,"headquarters":"Krishnagiri"
+    ,"population":"18,83,731"
+    ,"area":"5,086"
+    ,"density":"370"
+  },
+  {
+     "s.no":"255"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Khargone (West Nimar)"
+    ,"code":"WN"
+    ,"headquarters":"Khargone"
+    ,"population":"18,72,413"
+    ,"area":"8,010"
+    ,"density":"233"
+  },
+  {
+     "s.no":"256"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Sonbhadra"
+    ,"code":"SO"
+    ,"headquarters":"Robertsganj"
+    ,"population":"18,62,612"
+    ,"area":"6,788"
+    ,"density":"274"
+  },
+  {
+     "s.no":"257"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Mainpuri"
+    ,"code":"MP"
+    ,"headquarters":"Mainpuri"
+    ,"population":"18,47,194"
+    ,"area":"2,760"
+    ,"density":"670"
+  },
+  {
+     "s.no":"258"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Dharwad"
+    ,"code":"DH"
+    ,"headquarters":"Dharwad"
+    ,"population":"18,46,993"
+    ,"area":"4,265"
+    ,"density":"434"
+  },
+  {
+     "s.no":"259"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Darjeeling"
+    ,"code":"DA"
+    ,"headquarters":"Darjeeling"
+    ,"population":"18,42,034"
+    ,"area":"3,149"
+    ,"density":"585"
+  },
+  {
+     "s.no":"260"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Jyotiba Phule Nagar"
+    ,"code":"JP"
+    ,"headquarters":"Amroha"
+    ,"population":"18,38,771"
+    ,"area":"2,321"
+    ,"density":"818"
+  },
+  {
+     "s.no":"261"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Parbhani"
+    ,"code":"PA"
+    ,"headquarters":"Parbhani"
+    ,"population":"18,35,982"
+    ,"area":"6,511"
+    ,"density":"295"
+  },
+  {
+     "s.no":"262"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Jalore"
+    ,"code":"JL"
+    ,"headquarters":"Jalore"
+    ,"population":"18,30,151"
+    ,"area":"10,640"
+    ,"density":"172"
+  },
+  {
+     "s.no":"263"
+    ,"state":"Odisha (OD)"
+    ,"district":"Jajpur"
+    ,"code":"JP"
+    ,"headquarters":"Panikoili"
+    ,"population":"18,26,275"
+    ,"area":"2,885"
+    ,"density":"630"
+  },
+  {
+     "s.no":"264"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Akola"
+    ,"code":"AK"
+    ,"headquarters":"Akola"
+    ,"population":"18,18,617"
+    ,"area":"5,429"
+    ,"density":"321"
+  },
+  {
+     "s.no":"265"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Mandya"
+    ,"code":"MA"
+    ,"headquarters":"Mandya"
+    ,"population":"18,08,680"
+    ,"area":"4,961"
+    ,"density":"365"
+  },
+  {
+     "s.no":"266"
+    ,"state":"Odisha (OD)"
+    ,"district":"Kendujhar (Keonjhar)"
+    ,"code":"KJ"
+    ,"headquarters":"Kendujhar"
+    ,"population":"18,02,777"
+    ,"area":"8,336"
+    ,"density":"217"
+  },
+  {
+     "s.no":"267"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Banda"
+    ,"code":"BN"
+    ,"headquarters":"Banda"
+    ,"population":"17,99,541"
+    ,"area":"4,413"
+    ,"density":"404"
+  },
+  {
+     "s.no":"268"
+    ,"state":"Haryana (HR)"
+    ,"district":"Faridabad"
+    ,"code":"FR"
+    ,"headquarters":"Faridabad"
+    ,"population":"17,98,954"
+    ,"area":"783"
+    ,"density":"2,298"
+  },
+  {
+     "s.no":"269"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Banswara"
+    ,"code":"BN"
+    ,"headquarters":"Banswara"
+    ,"population":"17,98,194"
+    ,"area":"5,037"
+    ,"density":"399"
+  },
+  {
+     "s.no":"270"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Kanpur Dehat (Ramabai Nagar)"
+    ,"code":"KD"
+    ,"headquarters":"Akbarpur (Mati)"
+    ,"population":"17,95,092"
+    ,"area":"3,021"
+    ,"density":"594"
+  },
+  {
+     "s.no":"271"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Hanumangarh"
+    ,"code":"HA"
+    ,"headquarters":"Hanumangarh"
+    ,"population":"17,79,650"
+    ,"area":"9,670"
+    ,"density":"184"
+  },
+  {
+     "s.no":"272"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Hassan"
+    ,"code":"HS"
+    ,"headquarters":"Hassan"
+    ,"population":"17,76,221"
+    ,"area":"6,814"
+    ,"density":"261"
+  },
+  {
+     "s.no":"273"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Chhatarpur"
+    ,"code":"CT"
+    ,"headquarters":"Chhatarpur"
+    ,"population":"17,62,857"
+    ,"area":"8,687"
+    ,"density":"203"
+  },
+  {
+     "s.no":"274"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Etah"
+    ,"code":"ET"
+    ,"headquarters":"Etah"
+    ,"population":"17,61,152"
+    ,"area":"2,456"
+    ,"density":"717"
+  },
+  {
+     "s.no":"275"
+    ,"state":"Bihar (BR)"
+    ,"district":"Jamui"
+    ,"code":"JA"
+    ,"headquarters":"Jamui"
+    ,"population":"17,56,078"
+    ,"area":"3,099"
+    ,"density":"567"
+  },
+  {
+     "s.no":"276"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Surendranagar"
+    ,"code":"SN"
+    ,"headquarters":"Surendranagar"
+    ,"population":"17,55,873"
+    ,"area":"10,489"
+    ,"density":"167"
+  },
+  {
+     "s.no":"277"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Shimoga"
+    ,"code":"SH"
+    ,"headquarters":"Shimoga"
+    ,"population":"17,55,512"
+    ,"area":"8,495"
+    ,"density":"207"
+  },
+  {
+     "s.no":"278"
+    ,"state":"Haryana (HR)"
+    ,"district":"Hissar"
+    ,"code":"HI"
+    ,"headquarters":"Hissar"
+    ,"population":"17,42,815"
+    ,"area":"3,788"
+    ,"density":"438"
+  },
+  {
+     "s.no":"279"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Thoothukudi"
+    ,"code":"TK"
+    ,"headquarters":"Thoothukudi (Tuticorin)"
+    ,"population":"17,38,376"
+    ,"area":"4,594"
+    ,"density":"378"
+  },
+  {
+     "s.no":"280"
+    ,"state":"Assam (AS)"
+    ,"district":"Cachar"
+    ,"code":"CA"
+    ,"headquarters":"Silchar"
+    ,"population":"17,36,319"
+    ,"area":"3,786"
+    ,"density":"459"
+  },
+  {
+     "s.no":"281"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Hazaribag"
+    ,"code":"HA"
+    ,"headquarters":"Hazaribag"
+    ,"population":"17,34,005"
+    ,"area":"4,302"
+    ,"density":"403"
+  },
+  {
+     "s.no":"282"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Shivpuri"
+    ,"code":"SV"
+    ,"headquarters":"Shivpuri"
+    ,"population":"17,25,818"
+    ,"area":"10,290"
+    ,"density":"168"
+  },
+  {
+     "s.no":"283"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Namakkal"
+    ,"code":"NM"
+    ,"headquarters":"Namakkal"
+    ,"population":"17,21,179"
+    ,"area":"3,429"
+    ,"density":"506"
+  },
+  {
+     "s.no":"284"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Sant Kabir Nagar"
+    ,"code":"SK"
+    ,"headquarters":"Khalilabad"
+    ,"population":"17,14,300"
+    ,"area":"1,442"
+    ,"density":"1,014"
+  },
+  {
+     "s.no":"285"
+    ,"state":"Delhi (DL)"
+    ,"district":"East Delhi"
+    ,"code":"ED"
+    ,"headquarters":"Preet Vihar"
+    ,"population":"17,07,725"
+    ,"area":"440"
+    ,"density":"26,683"
+  },
+  {
+     "s.no":"286"
+    ,"state":"Bihar (BR)"
+    ,"district":"Buxar"
+    ,"code":"BU"
+    ,"headquarters":"Buxar"
+    ,"population":"17,07,643"
+    ,"area":"1,624"
+    ,"density":"1,003"
+  },
+  {
+     "s.no":"287"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Bhind"
+    ,"code":"BD"
+    ,"headquarters":"Bhind"
+    ,"population":"17,03,562"
+    ,"area":"4,459"
+    ,"density":"382"
+  },
+  {
+     "s.no":"288"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Valsad"
+    ,"code":"VL"
+    ,"headquarters":"Valsad"
+    ,"population":"17,03,068"
+    ,"area":"3,034"
+    ,"density":"561"
+  },
+  {
+     "s.no":"289"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Balaghat"
+    ,"code":"BL"
+    ,"headquarters":"Balaghat"
+    ,"population":"17,01,156"
+    ,"area":"9,229"
+    ,"density":"184"
+  },
+  {
+     "s.no":"290"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Bidar"
+    ,"code":"BD"
+    ,"headquarters":"Bidar"
+    ,"population":"17,00,018"
+    ,"area":"5,448"
+    ,"density":"312"
+  },
+  {
+     "s.no":"291"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Alipurduar"
+    ,"code":"AD"
+    ,"headquarters":"Alipurduar"
+    ,"population":"17,00,000"
+    ,"area":"3,383"
+    ,"density":"400"
+  },
+  {
+     "s.no":"292"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Dehradun"
+    ,"code":"DD"
+    ,"headquarters":"Dehradun"
+    ,"population":"16,98,560"
+    ,"area":"3,088"
+    ,"density":"550"
+  },
+  {
+     "s.no":"293"
+    ,"state":"Odisha (OD)"
+    ,"district":"Puri"
+    ,"code":"PU"
+    ,"headquarters":"Puri"
+    ,"population":"16,97,983"
+    ,"area":"3,055"
+    ,"density":"488"
+  },
+  {
+     "s.no":"294"
+    ,"state":"Assam (AS)"
+    ,"district":"Barpeta"
+    ,"code":"BA"
+    ,"headquarters":"Barpeta"
+    ,"population":"16,93,190"
+    ,"area":"3,245"
+    ,"density":"632"
+  },
+  {
+     "s.no":"295"
+    ,"state":"Bihar (BR)"
+    ,"district":"Kishanganj"
+    ,"code":"KI"
+    ,"headquarters":"Kishanganj"
+    ,"population":"16,90,948"
+    ,"area":"1,884"
+    ,"density":"898"
+  },
+  {
+     "s.no":"296"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Gautam Buddh Nagar"
+    ,"code":"GB"
+    ,"headquarters":"Noida"
+    ,"population":"16,74,714"
+    ,"area":"1,269"
+    ,"density":"1,252"
+  },
+  {
+     "s.no":"297"
+    ,"state":"West Bengal (WB)"
+    ,"district":"Dakshin Dinajpur"
+    ,"code":"DD"
+    ,"headquarters":"Balurghat"
+    ,"population":"16,70,931"
+    ,"area":"2,183"
+    ,"density":"753"
+  },
+  {
+     "s.no":"298"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Jalaun"
+    ,"code":"JL"
+    ,"headquarters":"Orai"
+    ,"population":"16,70,718"
+    ,"area":"4,565"
+    ,"density":"366"
+  },
+  {
+     "s.no":"299"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Chitradurga"
+    ,"code":"CT"
+    ,"headquarters":"Chitradurga"
+    ,"population":"16,60,378"
+    ,"area":"8,437"
+    ,"density":"197"
+  },
+  {
+     "s.no":"300"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Osmanabad"
+    ,"code":"OS"
+    ,"headquarters":"Osmanabad"
+    ,"population":"16,60,311"
+    ,"area":"7,569"
+    ,"density":"219"
+  },
+  {
+     "s.no":"301"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Kannauj"
+    ,"code":"KJ"
+    ,"headquarters":"Kannauj"
+    ,"population":"16,58,005"
+    ,"area":"1,993"
+    ,"density":"792"
+  },
+  {
+     "s.no":"302"
+    ,"state":"Bihar (BR)"
+    ,"district":"Khagaria"
+    ,"code":"KH"
+    ,"headquarters":"Khagaria"
+    ,"population":"16,57,599"
+    ,"area":"1,486"
+    ,"density":"1,115"
+  },
+  {
+     "s.no":"303"
+    ,"state":"Punjab (PB)"
+    ,"district":"Sangrur"
+    ,"code":"SA"
+    ,"headquarters":"Sangrur"
+    ,"population":"16,54,408"
+    ,"area":"3,685"
+    ,"density":"449"
+  },
+  {
+     "s.no":"304"
+    ,"state":"Odisha (OD)"
+    ,"district":"Balangir"
+    ,"code":"BL"
+    ,"headquarters":"Balangir"
+    ,"population":"16,48,574"
+    ,"area":"6,552"
+    ,"density":"251"
+  },
+  {
+     "s.no":"305"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Udham Singh Nagar"
+    ,"code":"US"
+    ,"headquarters":"Rudrapur"
+    ,"population":"16,48,367"
+    ,"area":"2,912"
+    ,"density":"648"
+  },
+  {
+     "s.no":"306"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Nandurbar"
+    ,"code":"NB"
+    ,"headquarters":"Nandurbar"
+    ,"population":"16,46,177"
+    ,"area":"5,055"
+    ,"density":"276"
+  },
+  {
+     "s.no":"307"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Dausa"
+    ,"code":"DA"
+    ,"headquarters":"Dausa"
+    ,"population":"16,37,226"
+    ,"area":"3,429"
+    ,"density":"476"
+  },
+  {
+     "s.no":"308"
+    ,"state":"Haryana (HR)"
+    ,"district":"Bhiwani"
+    ,"code":"BH"
+    ,"headquarters":"Bhiwani"
+    ,"population":"16,29,109"
+    ,"area":"5,140"
+    ,"density":"341"
+  },
+  {
+     "s.no":"309"
+    ,"state":"Bihar (BR)"
+    ,"district":"Kaimur"
+    ,"code":"KM"
+    ,"headquarters":"Bhabua"
+    ,"population":"16,26,900"
+    ,"area":"3,363"
+    ,"density":"488"
+  },
+  {
+     "s.no":"310"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Janjgir-Champa"
+    ,"code":"JC"
+    ,"headquarters":"Naila Janjgir"
+    ,"population":"16,20,632"
+    ,"area":"3,848"
+    ,"density":"421"
+  },
+  {
+     "s.no":"311"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Nagapattinam"
+    ,"code":"NG"
+    ,"headquarters":"Nagapattinam"
+    ,"population":"16,14,069"
+    ,"area":"2,716"
+    ,"density":"668"
+  },
+  {
+     "s.no":"312"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Ratnagiri"
+    ,"code":"RT"
+    ,"headquarters":"Ratnagiri"
+    ,"population":"16,12,672"
+    ,"area":"8,208"
+    ,"density":"196"
+  },
+  {
+     "s.no":"313"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Haveri district"
+    ,"code":"HV"
+    ,"headquarters":"Haveri"
+    ,"population":"15,98,506"
+    ,"area":"4,825"
+    ,"density":"331"
+  },
+  {
+     "s.no":"314"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Kaushambi"
+    ,"code":"KS"
+    ,"headquarters":"Manjhanpur"
+    ,"population":"15,96,909"
+    ,"area":"1,837"
+    ,"density":"897"
+  },
+  {
+     "s.no":"315"
+    ,"state":"Punjab (PB)"
+    ,"district":"Hoshiarpur"
+    ,"code":"HO"
+    ,"headquarters":"Hoshiarpur"
+    ,"population":"15,82,793"
+    ,"area":"3,397"
+    ,"density":"466"
+  },
+  {
+     "s.no":"316"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Etawah"
+    ,"code":"EW"
+    ,"headquarters":"Etawah"
+    ,"population":"15,79,160"
+    ,"area":"2,287"
+    ,"density":"683"
+  },
+  {
+     "s.no":"317"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Betul"
+    ,"code":"BE"
+    ,"headquarters":"Betul"
+    ,"population":"15,75,247"
+    ,"area":"10,043"
+    ,"density":"157"
+  },
+  {
+     "s.no":"318"
+    ,"state":"Odisha (OD)"
+    ,"district":"Kalahandi"
+    ,"code":"KL"
+    ,"headquarters":"Bhawanipatna"
+    ,"population":"15,73,054"
+    ,"area":"8,197"
+    ,"density":"199"
+  },
+  {
+     "s.no":"319"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Hathras (Mahamaya Nagar)"
+    ,"code":"HT"
+    ,"headquarters":"Hathras"
+    ,"population":"15,65,678"
+    ,"area":"1,752"
+    ,"density":"851"
+  },
+  {
+     "s.no":"320"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Dewas"
+    ,"code":"DE"
+    ,"headquarters":"Dewas"
+    ,"population":"15,63,107"
+    ,"area":"7,020"
+    ,"density":"223"
+  },
+  {
+     "s.no":"321"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Sant Ravidas Nagar"
+    ,"code":"SR"
+    ,"headquarters":"Gyanpur"
+    ,"population":"15,54,203"
+    ,"area":"960"
+    ,"density":"1,531"
+  },
+  {
+     "s.no":"322"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Bharuch"
+    ,"code":"BR"
+    ,"headquarters":"Bharuch"
+    ,"population":"15,50,822"
+    ,"area":"6,524"
+    ,"density":"238"
+  },
+  {
+     "s.no":"323"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Rajgarh"
+    ,"code":"RG"
+    ,"headquarters":"Rajgarh"
+    ,"population":"15,46,541"
+    ,"area":"6,143"
+    ,"density":"251"
+  },
+  {
+     "s.no":"324"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Chittorgarh"
+    ,"code":"CT"
+    ,"headquarters":"Chittorgarh"
+    ,"population":"15,44,392"
+    ,"area":"10,856"
+    ,"density":"193"
+  },
+  {
+     "s.no":"325"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Kolar"
+    ,"code":"KL"
+    ,"headquarters":"Kolar"
+    ,"population":"15,40,231"
+    ,"area":"4,012"
+    ,"density":"384"
+  },
+  {
+     "s.no":"326"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Rajnandgaon"
+    ,"code":"RN"
+    ,"headquarters":"Rajnandgaon"
+    ,"population":"15,37,520"
+    ,"area":"8,062"
+    ,"density":"191"
+  },
+  {
+     "s.no":"327"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Jammu"
+    ,"code":"JA"
+    ,"headquarters":"Jammu"
+    ,"population":"15,26,406"
+    ,"area":"3,097"
+    ,"density":"596"
+  },
+  {
+     "s.no":"328"
+    ,"state":"Assam (AS)"
+    ,"district":"Kamrup"
+    ,"code":"KR"
+    ,"headquarters":"Goroimari"
+    ,"population":"15,17,202"
+    ,"area":"3,480"
+    ,"density":"436"
+  },
+  {
+     "s.no":"329"
+    ,"state":"Haryana (HR)"
+    ,"district":"Gurgaon"
+    ,"code":"GU"
+    ,"headquarters":"Gurgaon"
+    ,"population":"15,14,085"
+    ,"area":"2,760"
+    ,"density":"1,241"
+  },
+  {
+     "s.no":"330"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Amreli district"
+    ,"code":"AM"
+    ,"headquarters":"Amreli"
+    ,"population":"15,13,614"
+    ,"area":"6,760"
+    ,"density":"205"
+  },
+  {
+     "s.no":"331"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Shajapur"
+    ,"code":"SJ"
+    ,"headquarters":"Shajapur"
+    ,"population":"15,12,353"
+    ,"area":"6,196"
+    ,"density":"244"
+  },
+  {
+     "s.no":"332"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Kangra"
+    ,"code":"KA"
+    ,"headquarters":"Dharamshala"
+    ,"population":"15,07,223"
+    ,"area":"5,739"
+    ,"density":"263"
+  },
+  {
+     "s.no":"333"
+    ,"state":"Odisha (OD)"
+    ,"district":"Bhadrak"
+    ,"code":"BH"
+    ,"headquarters":"Bhadrak"
+    ,"population":"15,06,522"
+    ,"area":"2,788"
+    ,"density":"601"
+  },
+  {
+     "s.no":"334"
+    ,"state":"Haryana (HR)"
+    ,"district":"Karnal"
+    ,"code":"KR"
+    ,"headquarters":"Karnal"
+    ,"population":"15,06,323"
+    ,"area":"2,471"
+    ,"density":"598"
+  },
+  {
+     "s.no":"335"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Dharmapuri"
+    ,"code":"DH"
+    ,"headquarters":"Dharmapuri"
+    ,"population":"15,02,900"
+    ,"area":"4,532"
+    ,"density":"332"
+  },
+  {
+     "s.no":"336"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"West Singhbhum"
+    ,"code":"WS"
+    ,"headquarters":"Chaibasa"
+    ,"population":"15,01,619"
+    ,"area":"7,186"
+    ,"density":"209"
+  },
+  {
+     "s.no":"337"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Raigarh"
+    ,"code":"RG"
+    ,"headquarters":"Raigarh"
+    ,"population":"14,93,627"
+    ,"area":"7,068"
+    ,"density":"211"
+  },
+  {
+     "s.no":"338"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Deoghar"
+    ,"code":"DE"
+    ,"headquarters":"Deoghar"
+    ,"population":"14,91,879"
+    ,"area":"2,479"
+    ,"density":"602"
+  },
+  {
+     "s.no":"339"
+    ,"state":"Haryana (HR)"
+    ,"district":"Sonipat"
+    ,"code":"SNP"
+    ,"headquarters":"Sonipat"
+    ,"population":"14,80,080"
+    ,"area":"2,260"
+    ,"density":"697"
+  },
+  {
+     "s.no":"340"
+    ,"state":"Odisha (OD)"
+    ,"district":"Bargarh (Baragarh)"
+    ,"code":"BR"
+    ,"headquarters":"Bargarh"
+    ,"population":"14,78,833"
+    ,"area":"5,832"
+    ,"density":"253"
+  },
+  {
+     "s.no":"341"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Karauli"
+    ,"code":"KA"
+    ,"headquarters":"Karauli"
+    ,"population":"14,58,459"
+    ,"area":"5,530"
+    ,"density":"264"
+  },
+  {
+     "s.no":"342"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Vidisha"
+    ,"code":"VI"
+    ,"headquarters":"Vidisha"
+    ,"population":"14,58,212"
+    ,"area":"7,362"
+    ,"density":"198"
+  },
+  {
+     "s.no":"343"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Ratlam"
+    ,"code":"RL"
+    ,"headquarters":"Ratlam"
+    ,"population":"14,54,483"
+    ,"area":"4,861"
+    ,"density":"299"
+  },
+  {
+     "s.no":"344"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Hapur (Panchsheel Nagar)"
+    ,"code":"PN"
+    ,"headquarters":"Hapur"
+    ,"population":"14,51,983"
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"345"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Tikamgarh"
+    ,"code":"TI"
+    ,"headquarters":"Tikamgarh"
+    ,"population":"14,44,920"
+    ,"area":"5,055"
+    ,"density":"286"
+  },
+  {
+     "s.no":"346"
+    ,"state":"Odisha (OD)"
+    ,"district":"Kendrapara"
+    ,"code":"KP"
+    ,"headquarters":"Kendrapara"
+    ,"population":"14,39,891"
+    ,"area":"2,546"
+    ,"density":"545"
+  },
+  {
+     "s.no":"347"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Kanshi Ram Nagar"
+    ,"code":"KR"
+    ,"headquarters":"Kasganj"
+    ,"population":"14,38,156"
+    ,"area":"1,955"
+    ,"density":"736"
+  },
+  {
+     "s.no":"348"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Tonk"
+    ,"code":"TO"
+    ,"headquarters":"Tonk"
+    ,"population":"14,21,711"
+    ,"area":"7,194"
+    ,"density":"198"
+  },
+  {
+     "s.no":"349"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Bastar"
+    ,"code":"BA"
+    ,"headquarters":"Jagdalpur"
+    ,"population":"14,11,644"
+    ,"area":"4,030"
+    ,"density":"140"
+  },
+  {
+     "s.no":"350"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Jhalawar"
+    ,"code":"JW"
+    ,"headquarters":"Jhalawar"
+    ,"population":"14,11,327"
+    ,"area":"6,219"
+    ,"density":"227"
+  },
+  {
+     "s.no":"351"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Koppal"
+    ,"code":"KP"
+    ,"headquarters":"Koppal"
+    ,"population":"13,91,292"
+    ,"area":"5,565"
+    ,"density":"250"
+  },
+  {
+     "s.no":"352"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Dungapur"
+    ,"code":"DU"
+    ,"headquarters":"Dungarpur"
+    ,"population":"13,88,906"
+    ,"area":"3,771"
+    ,"density":"368"
+  },
+  {
+     "s.no":"353"
+    ,"state":"Punjab (PB)"
+    ,"district":"Bathinda"
+    ,"code":"BA"
+    ,"headquarters":"Bathinda"
+    ,"population":"13,88,859"
+    ,"area":"3,355"
+    ,"density":"414"
+  },
+  {
+     "s.no":"354"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Gandhinagar"
+    ,"code":"GA"
+    ,"headquarters":"Gandhinagar"
+    ,"population":"13,87,478"
+    ,"area":"649"
+    ,"density":"660"
+  },
+  {
+     "s.no":"355"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Barwani"
+    ,"code":"BR"
+    ,"headquarters":"Barwani"
+    ,"population":"13,85,659"
+    ,"area":"5,432"
+    ,"density":"256"
+  },
+  {
+     "s.no":"356"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Seoni"
+    ,"code":"SO"
+    ,"headquarters":"Seoni"
+    ,"population":"13,78,876"
+    ,"area":"8,758"
+    ,"density":"157"
+  },
+  {
+     "s.no":"357"
+    ,"state":"Odisha (OD)"
+    ,"district":"Koraput"
+    ,"code":"KO"
+    ,"headquarters":"Koraput"
+    ,"population":"13,76,934"
+    ,"area":"8,534"
+    ,"density":"156"
+  },
+  {
+     "s.no":"358"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Auraiya"
+    ,"code":"AU"
+    ,"headquarters":"Auraiya"
+    ,"population":"13,72,287"
+    ,"area":"2,051"
+    ,"density":"681"
+  },
+  {
+     "s.no":"359"
+    ,"state":"Bihar (BR)"
+    ,"district":"Munger"
+    ,"code":"MG"
+    ,"headquarters":"Munger"
+    ,"population":"13,59,054"
+    ,"area":"1,419"
+    ,"density":"958"
+  },
+  {
+     "s.no":"360"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Uttara Kannada"
+    ,"code":"UK"
+    ,"headquarters":"Karwar"
+    ,"population":"13,53,299"
+    ,"area":"10,291"
+    ,"density":"132"
+  },
+  {
+     "s.no":"361"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Patan"
+    ,"code":"PA"
+    ,"headquarters":"Patan"
+    ,"population":"13,42,746"
+    ,"area":"5,738"
+    ,"density":"234"
+  },
+  {
+     "s.no":"362"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Sivaganga"
+    ,"code":"SI"
+    ,"headquarters":"Sivaganga"
+    ,"population":"13,41,250"
+    ,"area":"4,086"
+    ,"density":"324"
+  },
+  {
+     "s.no":"363"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Mandsaur"
+    ,"code":"MS"
+    ,"headquarters":"Mandsaur"
+    ,"population":"13,39,832"
+    ,"area":"5,530"
+    ,"density":"242"
+  },
+  {
+     "s.no":"364"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Sawai Madhopur"
+    ,"code":"SM"
+    ,"headquarters":"Sawai Madhopur"
+    ,"population":"13,38,114"
+    ,"area":"4,500"
+    ,"density":"257"
+  },
+  {
+     "s.no":"365"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Ramanathapuram"
+    ,"code":"RA"
+    ,"headquarters":"Ramanathapuram"
+    ,"population":"13,37,560"
+    ,"area":"4,123"
+    ,"density":"320"
+  },
+  {
+     "s.no":"366"
+    ,"state":"Haryana (HR)"
+    ,"district":"Jind"
+    ,"code":"JI"
+    ,"headquarters":"Jind"
+    ,"population":"13,32,042"
+    ,"area":"2,702"
+    ,"density":"493"
+  },
+  {
+     "s.no":"367"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Raisen"
+    ,"code":"RS"
+    ,"headquarters":"Raisen"
+    ,"population":"13,31,699"
+    ,"area":"8,466"
+    ,"density":"157"
+  },
+  {
+     "s.no":"368"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Navsari"
+    ,"code":"NV"
+    ,"headquarters":"Navsari"
+    ,"population":"13,30,711"
+    ,"area":"2,211"
+    ,"density":"602"
+  },
+  {
+     "s.no":"369"
+    ,"state":"Assam (AS)"
+    ,"district":"Dibrugarh"
+    ,"code":"DI"
+    ,"headquarters":"Dibrugarh"
+    ,"population":"13,27,748"
+    ,"area":"3,381"
+    ,"density":"393"
+  },
+  {
+     "s.no":"370"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Garhwa"
+    ,"code":"GA"
+    ,"headquarters":"Garhwa"
+    ,"population":"13,22,387"
+    ,"area":"4,064"
+    ,"density":"327"
+  },
+  {
+     "s.no":"371"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Gondia"
+    ,"code":"GO"
+    ,"headquarters":"Gondia"
+    ,"population":"13,22,331"
+    ,"area":"5,431"
+    ,"density":"253"
+  },
+  {
+     "s.no":"372"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Dumka"
+    ,"code":"DU"
+    ,"headquarters":"Dumka"
+    ,"population":"13,21,096"
+    ,"area":"4,404"
+    ,"density":"300"
+  },
+  {
+     "s.no":"373"
+    ,"state":"Assam (AS)"
+    ,"district":"Tinsukia"
+    ,"code":"TI"
+    ,"headquarters":"Tinsukia"
+    ,"population":"13,16,948"
+    ,"area":"3,790"
+    ,"density":"347"
+  },
+  {
+     "s.no":"374"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Godda"
+    ,"code":"GO"
+    ,"headquarters":"Godda"
+    ,"population":"13,11,382"
+    ,"area":"2,110"
+    ,"density":"622"
+  },
+  {
+     "s.no":"375"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Sehore"
+    ,"code":"SR"
+    ,"headquarters":"Sehore"
+    ,"population":"13,11,008"
+    ,"area":"6,578"
+    ,"density":"199"
+  },
+  {
+     "s.no":"376"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Khandwa (East Nimar)"
+    ,"code":"EN"
+    ,"headquarters":"Khandwa"
+    ,"population":"13,09,443"
+    ,"area":"7,349"
+    ,"density":"178"
+  },
+  {
+     "s.no":"377"
+    ,"state":"Kerala (KL)"
+    ,"district":"Kasaragod"
+    ,"code":"KS"
+    ,"headquarters":"Kasaragod"
+    ,"population":"13,02,600"
+    ,"area":"1,992"
+    ,"density":"654"
+  },
+  {
+     "s.no":"378"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Bagpat"
+    ,"code":"BG"
+    ,"headquarters":"Baghpat"
+    ,"population":"13,02,156"
+    ,"area":"1,345"
+    ,"density":"986"
+  },
+  {
+     "s.no":"379"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Wardha"
+    ,"code":"WR"
+    ,"headquarters":"Wardha"
+    ,"population":"12,96,157"
+    ,"area":"6,309"
+    ,"density":"205"
+  },
+  {
+     "s.no":"380"
+    ,"state":"Haryana (HR)"
+    ,"district":"Sirsa"
+    ,"code":"SI"
+    ,"headquarters":"Sirsa"
+    ,"population":"12,95,114"
+    ,"area":"4,276"
+    ,"density":"303"
+  },
+  {
+     "s.no":"381"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Katni"
+    ,"code":"KA"
+    ,"headquarters":"Katni"
+    ,"population":"12,91,684"
+    ,"area":"4,947"
+    ,"density":"261"
+  },
+  {
+     "s.no":"382"
+    ,"state":"Odisha (OD)"
+    ,"district":"Angul"
+    ,"code":"AN"
+    ,"headquarters":"Angul"
+    ,"population":"12,71,703"
+    ,"area":"6,347"
+    ,"density":"199"
+  },
+  {
+     "s.no":"383"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Srinagar"
+    ,"code":"SR"
+    ,"headquarters":"Srinagar"
+    ,"population":"12,69,751"
+    ,"area":"2,228"
+    ,"density":"703"
+  },
+  {
+     "s.no":"384"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Tiruvarur"
+    ,"code":"TR"
+    ,"headquarters":"Tiruvarur"
+    ,"population":"12,68,094"
+    ,"area":"2,377"
+    ,"density":"533"
+  },
+  {
+     "s.no":"385"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Damoh"
+    ,"code":"DM"
+    ,"headquarters":"Damoh"
+    ,"population":"12,63,703"
+    ,"area":"7,306"
+    ,"density":"173"
+  },
+  {
+     "s.no":"386"
+    ,"state":"Assam (AS)"
+    ,"district":"Kamrup Metropolitan"
+    ,"code":"KM"
+    ,"headquarters":"Guwahati"
+    ,"population":"12,60,419"
+    ,"area":"627"
+    ,"density":"2,010"
+  },
+  {
+     "s.no":"387"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Chikkaballapur"
+    ,"code":"CK"
+    ,"headquarters":"Chikkaballapur"
+    ,"population":"12,54,377"
+    ,"area":"4,208"
+    ,"density":"298"
+  },
+  {
+     "s.no":"388"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Theni"
+    ,"code":"TH"
+    ,"headquarters":"Theni"
+    ,"population":"12,43,684"
+    ,"area":"3,066"
+    ,"density":"433"
+  },
+  {
+     "s.no":"389"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Hoshangabad"
+    ,"code":"HO"
+    ,"headquarters":"Hoshangabad"
+    ,"population":"12,40,975"
+    ,"area":"6,698"
+    ,"density":"185"
+  },
+  {
+     "s.no":"390"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Guna"
+    ,"code":"GU"
+    ,"headquarters":"Guna"
+    ,"population":"12,40,938"
+    ,"area":"6,485"
+    ,"density":"194"
+  },
+  {
+     "s.no":"391"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Baran"
+    ,"code":"BR"
+    ,"headquarters":"Baran"
+    ,"population":"12,23,921"
+    ,"area":"6,955"
+    ,"density":"175"
+  },
+  {
+     "s.no":"392"
+    ,"state":"Odisha (OD)"
+    ,"district":"Nabarangpur"
+    ,"code":"NB"
+    ,"headquarters":"Nabarangpur"
+    ,"population":"12,18,762"
+    ,"area":"5,135"
+    ,"density":"230"
+  },
+  {
+     "s.no":"393"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Lalitpur"
+    ,"code":"LA"
+    ,"headquarters":"Lalitpur"
+    ,"population":"12,18,002"
+    ,"area":"5,039"
+    ,"density":"242"
+  },
+  {
+     "s.no":"394"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Gir Somnath"
+    ,"code":""
+    ,"headquarters":"Veraval"
+    ,"population":"12,17,477"
+    ,"area":"3,754"
+    ,"density":"324"
+  },
+  {
+     "s.no":"395"
+    ,"state":"Assam (AS)"
+    ,"district":"Karimganj"
+    ,"code":"KR"
+    ,"headquarters":"Karimganj"
+    ,"population":"12,17,002"
+    ,"area":"1,809"
+    ,"density":"673"
+  },
+  {
+     "s.no":"396"
+    ,"state":"Haryana (HR)"
+    ,"district":"Yamuna Nagar"
+    ,"code":"YN"
+    ,"headquarters":"Yamuna Nagar"
+    ,"population":"12,14,162"
+    ,"area":"1,756"
+    ,"density":"687"
+  },
+  {
+     "s.no":"397"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Dholpur"
+    ,"code":"DH"
+    ,"headquarters":"Dholpur"
+    ,"population":"12,07,293"
+    ,"area":"3,084"
+    ,"density":"398"
+  },
+  {
+     "s.no":"398"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Korba"
+    ,"code":"KB"
+    ,"headquarters":"Korba"
+    ,"population":"12,06,563"
+    ,"area":"6,615"
+    ,"density":"183"
+  },
+  {
+     "s.no":"399"
+    ,"state":"Haryana (HR)"
+    ,"district":"Panipat"
+    ,"code":"PP"
+    ,"headquarters":"Panipat"
+    ,"population":"12,02,811"
+    ,"area":"1,250"
+    ,"density":"949"
+  },
+  {
+     "s.no":"400"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Bhandara"
+    ,"code":"BH"
+    ,"headquarters":"Bhandara"
+    ,"population":"11,98,810"
+    ,"area":"3,890"
+    ,"density":"293"
+  },
+  {
+     "s.no":"401"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Washim"
+    ,"code":"WS"
+    ,"headquarters":"Washim"
+    ,"population":"11,96,714"
+    ,"area":"5,155"
+    ,"density":"244"
+  },
+  {
+     "s.no":"402"
+    ,"state":"Kerala (KL)"
+    ,"district":"Pathanamthitta"
+    ,"code":"PT"
+    ,"headquarters":"Pathanamthitta"
+    ,"population":"11,95,537"
+    ,"area":"2,462"
+    ,"density":"453"
+  },
+  {
+     "s.no":"403"
+    ,"state":"Odisha (OD)"
+    ,"district":"Dhenkanal"
+    ,"code":"DH"
+    ,"headquarters":"Dhenkanal"
+    ,"population":"11,92,948"
+    ,"area":"4,597"
+    ,"density":"268"
+  },
+  {
+     "s.no":"404"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Hingoli"
+    ,"code":"HI"
+    ,"headquarters":"Hingoli"
+    ,"population":"11,78,973"
+    ,"area":"4,526"
+    ,"density":"244"
+  },
+  {
+     "s.no":"405"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Singrauli"
+    ,"code":"SN"
+    ,"headquarters":"Waidhan"
+    ,"population":"11,78,132"
+    ,"area":"5,672"
+    ,"density":"208"
+  },
+  {
+     "s.no":"406"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Udupi"
+    ,"code":"UD"
+    ,"headquarters":"Udupi"
+    ,"population":"11,77,908"
+    ,"area":"3,879"
+    ,"density":"304"
+  },
+  {
+     "s.no":"407"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Yadgir"
+    ,"code":"YG"
+    ,"headquarters":"Yadgir"
+    ,"population":"11,72,985"
+    ,"area":"5,225"
+    ,"density":"224"
+  },
+  {
+     "s.no":"408"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Rajsamand"
+    ,"code":"RA"
+    ,"headquarters":"Rajsamand"
+    ,"population":"11,58,283"
+    ,"area":"3,853"
+    ,"density":"302"
+  },
+  {
+     "s.no":"409"
+    ,"state":"Assam (AS)"
+    ,"district":"Sivasagar"
+    ,"code":"SI"
+    ,"headquarters":"Sibsagar"
+    ,"population":"11,50,253"
+    ,"area":"2,668"
+    ,"density":"431"
+  },
+  {
+     "s.no":"410"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Sahibganj"
+    ,"code":"SA"
+    ,"headquarters":"Sahebganj"
+    ,"population":"11,50,038"
+    ,"area":"1,599"
+    ,"density":"719"
+  },
+  {
+     "s.no":"411"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Chikkamagaluru"
+    ,"code":"CK"
+    ,"headquarters":"Chikmagalur"
+    ,"population":"11,37,753"
+    ,"area":"7,201"
+    ,"density":"158"
+  },
+  {
+     "s.no":"412"
+    ,"state":"Haryana (HR)"
+    ,"district":"Ambala"
+    ,"code":"AM"
+    ,"headquarters":"Ambala"
+    ,"population":"11,36,784"
+    ,"area":"1,569"
+    ,"density":"722"
+  },
+  {
+     "s.no":"413"
+    ,"state":"Odisha (OD)"
+    ,"district":"Jagatsinghpur"
+    ,"code":"JS"
+    ,"headquarters":"Jagatsinghpur"
+    ,"population":"11,36,604"
+    ,"area":"1,759"
+    ,"density":"681"
+  },
+  {
+     "s.no":"414"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Sidhi"
+    ,"code":"SI"
+    ,"headquarters":"Sidhi"
+    ,"population":"11,26,515"
+    ,"area":"10,520"
+    ,"density":"232"
+  },
+  {
+     "s.no":"415"
+    ,"state":"Bihar (BR)"
+    ,"district":"Jehanabad"
+    ,"code":"JE"
+    ,"headquarters":"Jehanabad"
+    ,"population":"11,24,176"
+    ,"area":"1,569"
+    ,"density":"1,206"
+  },
+  {
+     "s.no":"416"
+    ,"state":"Punjab (PB)"
+    ,"district":"Tarn Taran"
+    ,"code":"TT"
+    ,"headquarters":"Tarn Taran Sahib"
+    ,"population":"11,20,070"
+    ,"area":"2,414"
+    ,"density":"464"
+  },
+  {
+     "s.no":"417"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Shravasti"
+    ,"code":"SV"
+    ,"headquarters":"Shravasti"
+    ,"population":"11,14,615"
+    ,"area":"1,948"
+    ,"density":"572"
+  },
+  {
+     "s.no":"418"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Bundi"
+    ,"code":"BU"
+    ,"headquarters":"Bundi"
+    ,"population":"11,13,725"
+    ,"area":"5,550"
+    ,"density":"193"
+  },
+  {
+     "s.no":"419"
+    ,"state":"Kerala (KL)"
+    ,"district":"Idukki"
+    ,"code":"ID"
+    ,"headquarters":"Painavu"
+    ,"population":"11,07,453"
+    ,"area":"4,479"
+    ,"density":"254"
+  },
+  {
+     "s.no":"420"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Hamirpur"
+    ,"code":"HM"
+    ,"headquarters":"Hamirpur"
+    ,"population":"11,04,021"
+    ,"area":"4,325"
+    ,"density":"268"
+  },
+  {
+     "s.no":"421"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Narsinghpur"
+    ,"code":"NA"
+    ,"headquarters":"Narsinghpur"
+    ,"population":"10,92,141"
+    ,"area":"5,133"
+    ,"density":"213"
+  },
+  {
+     "s.no":"422"
+    ,"state":"Assam (AS)"
+    ,"district":"Jorhat"
+    ,"code":"JO"
+    ,"headquarters":"Jorhat"
+    ,"population":"10,91,295"
+    ,"area":"2,851"
+    ,"density":"383"
+  },
+  {
+     "s.no":"423"
+    ,"state":"Haryana (HR)"
+    ,"district":"Mewat"
+    ,"code":"MW"
+    ,"headquarters":"Nuh"
+    ,"population":"10,89,406"
+    ,"area":"1,765"
+    ,"density":"729"
+  },
+  {
+     "s.no":"424"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Ramanagara"
+    ,"code":"RM"
+    ,"headquarters":"Ramanagara"
+    ,"population":"10,82,739"
+    ,"area":"3,573"
+    ,"density":"303"
+  },
+  {
+     "s.no":"425"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Karur"
+    ,"code":"KA"
+    ,"headquarters":"Karur"
+    ,"population":"10,76,588"
+    ,"area":"2,901"
+    ,"density":"371"
+  },
+  {
+     "s.no":"426"
+    ,"state":"Haryana (HR)"
+    ,"district":"Kaithal"
+    ,"code":"KT"
+    ,"headquarters":"Kaithal"
+    ,"population":"10,72,861"
+    ,"area":"2,799"
+    ,"density":"467"
+  },
+  {
+     "s.no":"427"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Chhota Udaipur"
+    ,"code":""
+    ,"headquarters":"Chhota Udaipur"
+    ,"population":"10,71,831"
+    ,"area":"3,237"
+    ,"density":"331"
+  },
+  {
+     "s.no":"428"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Gadchiroli"
+    ,"code":"GA"
+    ,"headquarters":"Gadchiroli"
+    ,"population":"10,71,795"
+    ,"area":"14,412"
+    ,"density":"74"
+  },
+  {
+     "s.no":"429"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Anantnag"
+    ,"code":"AN"
+    ,"headquarters":"Anantnag"
+    ,"population":"10,70,144"
+    ,"area":"2853"
+    ,"density":"375"
+  },
+  {
+     "s.no":"430"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Gadag"
+    ,"code":"GA"
+    ,"headquarters":"Gadag-Betageri"
+    ,"population":"10,65,235"
+    ,"area":"4,651"
+    ,"density":"229"
+  },
+  {
+     "s.no":"431"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Shahdol"
+    ,"code":"SH"
+    ,"headquarters":"Shahdol"
+    ,"population":"10,64,989"
+    ,"area":"6,205"
+    ,"density":"172"
+  },
+  {
+     "s.no":"432"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Seraikela Kharsawan"
+    ,"code":"SK"
+    ,"headquarters":"Seraikela"
+    ,"population":"10,63,458"
+    ,"area":"2,725"
+    ,"density":"390"
+  },
+  {
+     "s.no":"433"
+    ,"state":"Haryana (HR)"
+    ,"district":"Rohtak"
+    ,"code":"RO"
+    ,"headquarters":"Rohtak"
+    ,"population":"10,58,683"
+    ,"area":"1,668"
+    ,"density":"607"
+  },
+  {
+     "s.no":"434"
+    ,"state":"Assam (AS)"
+    ,"district":"Golaghat"
+    ,"code":"GG"
+    ,"headquarters":"Golaghat"
+    ,"population":"10,58,674"
+    ,"area":"3,502"
+    ,"density":"302"
+  },
+  {
+     "s.no":"435"
+    ,"state":"Chandigarh (CH)"
+    ,"district":"Chandigarh"
+    ,"code":"CH"
+    ,"headquarters":"Chandigarh"
+    ,"population":"10,54,686"
+    ,"area":"114"
+    ,"density":"9,252"
+  },
+  {
+     "s.no":"436"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Mandla"
+    ,"code":"ML"
+    ,"headquarters":"Mandla"
+    ,"population":"10,53,522"
+    ,"area":"5,805"
+    ,"density":"182"
+  },
+  {
+     "s.no":"437"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Aravalli"
+    ,"code":"AR"
+    ,"headquarters":"Modasa"
+    ,"population":"10,51,746"
+    ,"area":"3,217"
+    ,"density":"327"
+  },
+  {
+     "s.no":"438"
+    ,"state":"Odisha (OD)"
+    ,"district":"Sambalpur"
+    ,"code":"SA"
+    ,"headquarters":"Sambalpur"
+    ,"population":"10,44,410"
+    ,"area":"6,702"
+    ,"density":"158"
+  },
+  {
+     "s.no":"439"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Chatra"
+    ,"code":"CH"
+    ,"headquarters":"Chatra"
+    ,"population":"10,42,304"
+    ,"area":"3,700"
+    ,"density":"275"
+  },
+  {
+     "s.no":"440"
+    ,"state":"Assam (AS)"
+    ,"district":"Lakhimpur"
+    ,"code":"LA"
+    ,"headquarters":"North Lakhimpur"
+    ,"population":"10,40,644"
+    ,"area":"2,277"
+    ,"density":"457"
+  },
+  {
+     "s.no":"441"
+    ,"state":"Haryana (HR)"
+    ,"district":"Palwal"
+    ,"code":"PW"
+    ,"headquarters":"Palwal"
+    ,"population":"10,40,493"
+    ,"area":"1,367"
+    ,"density":"761"
+  },
+  {
+     "s.no":"442"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Sirohi"
+    ,"code":"SR"
+    ,"headquarters":"Sirohi"
+    ,"population":"10,37,185"
+    ,"area":"5,136"
+    ,"density":"202"
+  },
+  {
+     "s.no":"443"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Mahasamund"
+    ,"code":"MA"
+    ,"headquarters":"Mahasamund"
+    ,"population":"10,32,275"
+    ,"area":"4,779"
+    ,"density":"216"
+  },
+  {
+     "s.no":"444"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Gumla"
+    ,"code":"GU"
+    ,"headquarters":"Gumla"
+    ,"population":"10,25,656"
+    ,"area":"5327"
+    ,"density":"193"
+  },
+  {
+     "s.no":"445"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Jhabua"
+    ,"code":"JH"
+    ,"headquarters":"Jhabua"
+    ,"population":"10,24,091"
+    ,"area":"6,782"
+    ,"density":"285"
+  },
+  {
+     "s.no":"446"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Chamarajnagar"
+    ,"code":"CJ"
+    ,"headquarters":"Chamarajanagar"
+    ,"population":"10,20,962"
+    ,"area":"5,102"
+    ,"density":"200"
+  },
+  {
+     "s.no":"447"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Panna"
+    ,"code":"PA"
+    ,"headquarters":"Panna"
+    ,"population":"10,16,028"
+    ,"area":"7,135"
+    ,"density":"142"
+  },
+  {
+     "s.no":"448"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Baramulla"
+    ,"code":"BR"
+    ,"headquarters":"Baramulla"
+    ,"population":"10,15,503"
+    ,"area":"3329"
+    ,"density":"305"
+  },
+  {
+     "s.no":"449"
+    ,"state":"Assam (AS)"
+    ,"district":"Goalpara"
+    ,"code":"GP"
+    ,"headquarters":"Goalpara"
+    ,"population":"10,08,959"
+    ,"area":"1,824"
+    ,"density":"553"
+  },
+  {
+     "s.no":"450"
+    ,"state":"Bihar (BR)"
+    ,"district":"Lakhisarai"
+    ,"code":"LA"
+    ,"headquarters":"Lakhisarai"
+    ,"population":"10,00,717"
+    ,"area":"1,229"
+    ,"density":"815"
+  },
+  {
+     "s.no":"451"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Mandi"
+    ,"code":"MA"
+    ,"headquarters":"Mandi"
+    ,"population":"9,99,518"
+    ,"area":"3,950"
+    ,"density":"253"
+  },
+  {
+     "s.no":"452"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Mahisagar"
+    ,"code":"MH"
+    ,"headquarters":"Lunavada"
+    ,"population":"9,94,624"
+    ,"area":"2,500"
+    ,"density":"398"
+  },
+  {
+     "s.no":"453"
+    ,"state":"Punjab (PB)"
+    ,"district":"Moga"
+    ,"code":"MO"
+    ,"headquarters":"Moga"
+    ,"population":"9,92,289"
+    ,"area":"2,235"
+    ,"density":"444"
+  },
+  {
+     "s.no":"454"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Chitrakoot"
+    ,"code":"CT"
+    ,"headquarters":"Chitrakoot"
+    ,"population":"9,90,626"
+    ,"area":"3,202"
+    ,"density":"315"
+  },
+  {
+     "s.no":"455"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Bangalore Rural"
+    ,"code":"BR"
+    ,"headquarters":"Bangalore"
+    ,"population":"9,87,257"
+    ,"area":"2,239"
+    ,"density":"441"
+  },
+  {
+     "s.no":"456"
+    ,"state":"Punjab (PB)"
+    ,"district":"Sahibzada Ajit Singh Nagar"
+    ,"code":"SAS"
+    ,"headquarters":"Ajitgarh"
+    ,"population":"9,86,147"
+    ,"area":"1,188"
+    ,"density":"830"
+  },
+  {
+     "s.no":"457"
+    ,"state":"Assam (AS)"
+    ,"district":"Karbi Anglong"
+    ,"code":"KA"
+    ,"headquarters":"Diphu"
+    ,"population":"9,65,280"
+    ,"area":"10,434"
+    ,"density":"93"
+  },
+  {
+     "s.no":"458"
+    ,"state":"Haryana (HR)"
+    ,"district":"Kurukshetra"
+    ,"code":"KU"
+    ,"headquarters":"Kurukshetra"
+    ,"population":"9,64,231"
+    ,"area":"1,530"
+    ,"density":"630"
+  },
+  {
+     "s.no":"459"
+    ,"state":"Odisha (OD)"
+    ,"district":"Nayagarh"
+    ,"code":"NY"
+    ,"headquarters":"Nayagarh"
+    ,"population":"9,62,215"
+    ,"area":"3,954"
+    ,"density":"247"
+  },
+  {
+     "s.no":"460"
+    ,"state":"Odisha (OD)"
+    ,"district":"Rayagada"
+    ,"code":"RA"
+    ,"headquarters":"Rayagada"
+    ,"population":"9,61,959"
+    ,"area":"7,585"
+    ,"density":"136"
+  },
+  {
+     "s.no":"461"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Morbi"
+    ,"code":""
+    ,"headquarters":"Morbi"
+    ,"population":"9,60,329"
+    ,"area":"4,871"
+    ,"density":"197"
+  },
+  {
+     "s.no":"462"
+    ,"state":"Assam (AS)"
+    ,"district":"Morigaon"
+    ,"code":"MA"
+    ,"headquarters":"Marigaon"
+    ,"population":"9,57,853"
+    ,"area":"1,704"
+    ,"density":"618"
+  },
+  {
+     "s.no":"463"
+    ,"state":"Haryana (HR)"
+    ,"district":"Jhajjar"
+    ,"code":"JH"
+    ,"headquarters":"Jhajjar"
+    ,"population":"9,56,907"
+    ,"area":"1,868"
+    ,"density":"522"
+  },
+  {
+     "s.no":"464"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Nainital"
+    ,"code":"NA"
+    ,"headquarters":"Nainital"
+    ,"population":"9,55,128"
+    ,"area":"3,853"
+    ,"density":"225"
+  },
+  {
+     "s.no":"465"
+    ,"state":"Assam (AS)"
+    ,"district":"Baksa"
+    ,"code":"BK"
+    ,"headquarters":"Mushalpur"
+    ,"population":"9,53,773"
+    ,"area":"2,008"
+    ,"density":"475"
+  },
+  {
+     "s.no":"466"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Ramgarh"
+    ,"code":"RM"
+    ,"headquarters":"Ramgarh"
+    ,"population":"9,49,159"
+    ,"area":"1,212"
+    ,"density":"684"
+  },
+  {
+     "s.no":"467"
+    ,"state":"Puducherry (PY)"
+    ,"district":"Pondicherry"
+    ,"code":"PO"
+    ,"headquarters":"Pondicherry"
+    ,"population":"9,46,600"
+    ,"area":"293"
+    ,"density":"3,231"
+  },
+  {
+     "s.no":"468"
+    ,"state":"Haryana (HR)"
+    ,"district":"Fatehabad"
+    ,"code":"FT"
+    ,"headquarters":"Fatehabad"
+    ,"population":"9,41,522"
+    ,"area":"2,538"
+    ,"density":"371"
+  },
+  {
+     "s.no":"469"
+    ,"state":"Haryana (HR)"
+    ,"district":"Mahendragarh"
+    ,"code":"MA"
+    ,"headquarters":"Narnaul"
+    ,"population":"9,21,680"
+    ,"area":"1,900"
+    ,"density":"485"
+  },
+  {
+     "s.no":"470"
+    ,"state":"Tripura (TR)"
+    ,"district":"West Tripura"
+    ,"code":"WT"
+    ,"headquarters":"Agartala"
+    ,"population":"9,17,534"
+    ,"area":"942.55"
+    ,"density":"973"
+  },
+  {
+     "s.no":"471"
+    ,"state":"Assam (AS)"
+    ,"district":"Darrang"
+    ,"code":"DA"
+    ,"headquarters":"Mangaldoi"
+    ,"population":"9,08,090"
+    ,"area":"1,849"
+    ,"density":"491"
+  },
+  {
+     "s.no":"472"
+    ,"state":"Punjab (PB)"
+    ,"district":"Sri Muktsar Sahib"
+    ,"code":"MU"
+    ,"headquarters":"Sri Muktsar Sahib"
+    ,"population":"9,02,702"
+    ,"area":"2,596"
+    ,"density":"348"
+  },
+  {
+     "s.no":"473"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Pakur"
+    ,"code":"PK"
+    ,"headquarters":"Pakur"
+    ,"population":"8,99,200"
+    ,"area":"1,805"
+    ,"density":"498"
+  },
+  {
+     "s.no":"474"
+    ,"state":"Haryana (HR)"
+    ,"district":"Rewari"
+    ,"code":"RE"
+    ,"headquarters":"Rewari"
+    ,"population":"8,96,129"
+    ,"area":"1,559"
+    ,"density":"562"
+  },
+  {
+     "s.no":"475"
+    ,"state":"Assam (AS)"
+    ,"district":"Kokrajhar"
+    ,"code":"KK"
+    ,"headquarters":"Kokrajhar"
+    ,"population":"8,86,999"
+    ,"area":"3,129"
+    ,"density":"280"
+  },
+  {
+     "s.no":"476"
+    ,"state":"Delhi (DL)"
+    ,"district":"North Delhi"
+    ,"code":"NO"
+    ,"headquarters":"Sadar Bazaar"
+    ,"population":"8,83,418"
+    ,"area":"59"
+    ,"density":"14,973"
+  },
+  {
+     "s.no":"477"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Mahoba"
+    ,"code":"MH"
+    ,"headquarters":"Mahoba"
+    ,"population":"8,76,055"
+    ,"area":"2,847"
+    ,"density":"288"
+  },
+  {
+     "s.no":"478"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Kupwara"
+    ,"code":"KU"
+    ,"headquarters":"Kupwara"
+    ,"population":"8,75,564"
+    ,"area":"2,379"
+    ,"density":"368"
+  },
+  {
+     "s.no":"479"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Pratapgarh"
+    ,"code":"PG"
+    ,"headquarters":"Pratapgarh"
+    ,"population":"8,68,231"
+    ,"area":"4,112"
+    ,"density":"211"
+  },
+  {
+     "s.no":"480"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Jashpur"
+    ,"code":"JA"
+    ,"headquarters":"Jashpur Nagar"
+    ,"population":"8,52,043"
+    ,"area":"5,825"
+    ,"density":"146"
+  },
+  {
+     "s.no":"481"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Sindhudurg"
+    ,"code":"SI"
+    ,"headquarters":"Oros"
+    ,"population":"8,48,868"
+    ,"area":"5,207"
+    ,"density":"163"
+  },
+  {
+     "s.no":"482"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Ashok Nagar"
+    ,"code":"AS"
+    ,"headquarters":"Ashok Nagar"
+    ,"population":"8,44,979"
+    ,"area":"4,674"
+    ,"density":"181"
+  },
+  {
+     "s.no":"483"
+    ,"state":"Assam (AS)"
+    ,"district":"Udalguri"
+    ,"code":"UD"
+    ,"headquarters":"Udalguri"
+    ,"population":"8,32,769"
+    ,"area":"1,676"
+    ,"density":"497"
+  },
+  {
+     "s.no":"484"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Neemuch"
+    ,"code":"NE"
+    ,"headquarters":"Neemuch"
+    ,"population":"8,25,958"
+    ,"area":"4,267"
+    ,"density":"194"
+  },
+  {
+     "s.no":"485"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"East Khasi Hills"
+    ,"code":"EK"
+    ,"headquarters":"Shillong"
+    ,"population":"8,24,059"
+    ,"area":"2,752"
+    ,"density":"292"
+  },
+  {
+     "s.no":"486"
+    ,"state":"Goa (GA)"
+    ,"district":"North Goa"
+    ,"code":"NG"
+    ,"headquarters":"Panaji"
+    ,"population":"8,17,761"
+    ,"area":"1,736"
+    ,"density":"471"
+  },
+  {
+     "s.no":"487"
+    ,"state":"Punjab (PB)"
+    ,"district":"Kapurthala"
+    ,"code":"KA"
+    ,"headquarters":"Kapurthala"
+    ,"population":"8,17,668"
+    ,"area":"1,646"
+    ,"density":"501"
+  },
+  {
+     "s.no":"488"
+    ,"state":"Kerala (KL)"
+    ,"district":"Wayanad"
+    ,"code":"WA"
+    ,"headquarters":"Kalpetta"
+    ,"population":"8,16,558"
+    ,"area":"2,131"
+    ,"density":"383"
+  },
+  {
+     "s.no":"489"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Shimla"
+    ,"code":"SH"
+    ,"headquarters":"Shimla"
+    ,"population":"8,13,384"
+    ,"area":"5,131"
+    ,"density":"159"
+  },
+  {
+     "s.no":"490"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Tapi"
+    ,"code":"TA"
+    ,"headquarters":"Vyara"
+    ,"population":"8,06,489"
+    ,"area":"3,435"
+    ,"density":"249"
+  },
+  {
+     "s.no":"491"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Dhamtari"
+    ,"code":"DH"
+    ,"headquarters":"Dhamtari"
+    ,"population":"7,99,199"
+    ,"area":"4081"
+    ,"density":"236"
+  },
+  {
+     "s.no":"492"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Jamtara"
+    ,"code":"JA"
+    ,"headquarters":"Jamtara"
+    ,"population":"7,90,207"
+    ,"area":"1,802"
+    ,"density":"439"
+  },
+  {
+     "s.no":"493"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Datia"
+    ,"code":"DT"
+    ,"headquarters":"Datia"
+    ,"population":"7,86,375"
+    ,"area":"2,694"
+    ,"density":"292"
+  },
+  {
+     "s.no":"494"
+    ,"state":"Assam (AS)"
+    ,"district":"Nalbari"
+    ,"code":"NL"
+    ,"headquarters":"Nalbari"
+    ,"population":"7,69,919"
+    ,"area":"1,009"
+    ,"density":"763"
+  },
+  {
+     "s.no":"495"
+    ,"state":"Punjab (PB)"
+    ,"district":"Mansa"
+    ,"code":"MA"
+    ,"headquarters":"Mansa"
+    ,"population":"7,68,808"
+    ,"area":"2,174"
+    ,"density":"350"
+  },
+  {
+     "s.no":"496"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Burhanpur"
+    ,"code":"BU"
+    ,"headquarters":"Burhanpur"
+    ,"population":"7,56,993"
+    ,"area":"3,427"
+    ,"density":"221"
+  },
+  {
+     "s.no":"497"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Devbhoomi Dwarka"
+    ,"code":""
+    ,"headquarters":"Khambhalia"
+    ,"population":"7,52,484"
+    ,"area":"5,684"
+    ,"density":"132"
+  },
+  {
+     "s.no":"498"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Ariyalur"
+    ,"code":"AY"
+    ,"headquarters":"Ariyalur"
+    ,"population":"7,52,481"
+    ,"area":"3,208"
+    ,"density":"387"
+  },
+  {
+     "s.no":"499"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Anuppur"
+    ,"code":"AP"
+    ,"headquarters":"Anuppur"
+    ,"population":"7,49,521"
+    ,"area":"3,747"
+    ,"density":"200"
+  },
+  {
+     "s.no":"500"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Kanker"
+    ,"code":"KK"
+    ,"headquarters":"Kanker"
+    ,"population":"7,48,593"
+    ,"area":"6,513"
+    ,"density":"115"
+  },
+  {
+     "s.no":"501"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Badgam"
+    ,"code":"BD"
+    ,"headquarters":"Badgam"
+    ,"population":"7,35,753"
+    ,"area":"1406"
+    ,"density":"537"
+  },
+  {
+     "s.no":"502"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Nilgiris"
+    ,"code":"NI"
+    ,"headquarters":"Udagamandalam (Ootacamund/Ooty)"
+    ,"population":"7,35,071"
+    ,"area":"2,549"
+    ,"density":"288"
+  },
+  {
+     "s.no":"503"
+    ,"state":"Assam (AS)"
+    ,"district":"Bongaigaon"
+    ,"code":"BO"
+    ,"headquarters":"Bongaigaon"
+    ,"population":"7,32,639"
+    ,"area":"1,724"
+    ,"density":"425"
+  },
+  {
+     "s.no":"504"
+    ,"state":"Odisha (OD)"
+    ,"district":"Kandhamal"
+    ,"code":"KN"
+    ,"headquarters":"Phulbani"
+    ,"population":"7,31,952"
+    ,"area":"6,004"
+    ,"density":"91"
+  },
+  {
+     "s.no":"505"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Alirajpur"
+    ,"code":"AL"
+    ,"headquarters":"Alirajpur"
+    ,"population":"7,28,677"
+    ,"area":"3,182"
+    ,"density":"229"
+  },
+  {
+     "s.no":"506"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Latehar"
+    ,"code":"LA"
+    ,"headquarters":"Latehar"
+    ,"population":"7,25,673"
+    ,"area":"3,630"
+    ,"density":"200"
+  },
+  {
+     "s.no":"507"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Koderma"
+    ,"code":"KO"
+    ,"headquarters":"Koderma"
+    ,"population":"7,17,169"
+    ,"area":"1,312"
+    ,"density":"427"
+  },
+  {
+     "s.no":"508"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Dindori"
+    ,"code":"DI"
+    ,"headquarters":"Dindori"
+    ,"population":"7,04,218"
+    ,"area":"7,427"
+    ,"density":"94"
+  },
+  {
+     "s.no":"509"
+    ,"state":"Bihar (BR)"
+    ,"district":"Arwal"
+    ,"code":"AR"
+    ,"headquarters":"Arwal"
+    ,"population":"7,00,843"
+    ,"area":"638"
+    ,"density":"1,098"
+  },
+  {
+     "s.no":"510"
+    ,"state":"Assam (AS)"
+    ,"district":"Dhemaji"
+    ,"code":"DM"
+    ,"headquarters":"Dhemaji"
+    ,"population":"6,88,077"
+    ,"area":"3,237"
+    ,"density":"213"
+  },
+  {
+     "s.no":"511"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Sheopur"
+    ,"code":"SP"
+    ,"headquarters":"Sheopur"
+    ,"population":"6,87,952"
+    ,"area":"6,585"
+    ,"density":"104"
+  },
+  {
+     "s.no":"512"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Pauri Garhwal"
+    ,"code":"PG"
+    ,"headquarters":"Pauri"
+    ,"population":"6,86,527"
+    ,"area":"5,438"
+    ,"density":"129"
+  },
+  {
+     "s.no":"513"
+    ,"state":"Punjab (PB)"
+    ,"district":"Rupnagar"
+    ,"code":"RU"
+    ,"headquarters":"Rupnagar"
+    ,"population":"6,83,349"
+    ,"area":"1,400"
+    ,"density":"488"
+  },
+  {
+     "s.no":"514"
+    ,"state":"Rajasthan (RJ)"
+    ,"district":"Jaisalmer"
+    ,"code":"JS"
+    ,"headquarters":"Jaisalmer"
+    ,"population":"6,72,008"
+    ,"area":"38,401"
+    ,"density":"17"
+  },
+  {
+     "s.no":"515"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Surajpur"
+    ,"code":"SJ"
+    ,"headquarters":"Surajpur"
+    ,"population":"6,60,280"
+    ,"area":"6787"
+    ,"density":"150"
+  },
+  {
+     "s.no":"516"
+    ,"state":"Assam (AS)"
+    ,"district":"Hailakandi"
+    ,"code":"HA"
+    ,"headquarters":"Hailakandi"
+    ,"population":"6,59,260"
+    ,"area":"1,327"
+    ,"density":"497"
+  },
+  {
+     "s.no":"517"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Koriya"
+    ,"code":"KJ"
+    ,"headquarters":"Baikunthpur"
+    ,"population":"6,59,039"
+    ,"area":"6,578"
+    ,"density":"100"
+  },
+  {
+     "s.no":"518"
+    ,"state":"Bihar (BR)"
+    ,"district":"Sheohar"
+    ,"code":"SO"
+    ,"headquarters":"Sheohar"
+    ,"population":"6,56,916"
+    ,"area":"443"
+    ,"density":"1,882"
+  },
+  {
+     "s.no":"519"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Botad"
+    ,"code":""
+    ,"headquarters":"Botad"
+    ,"population":"6,56,005"
+    ,"area":"2,564"
+    ,"density":"256"
+  },
+  {
+     "s.no":"520"
+    ,"state":"Odisha (OD)"
+    ,"district":"Subarnapur (Sonepur)"
+    ,"code":"SO"
+    ,"headquarters":"Subarnapur"
+    ,"population":"6,52,107"
+    ,"area":"2,284"
+    ,"density":"279"
+  },
+  {
+     "s.no":"521"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Umaria"
+    ,"code":"UM"
+    ,"headquarters":"Umaria"
+    ,"population":"6,43,579"
+    ,"area":"4,062"
+    ,"density":"158"
+  },
+  {
+     "s.no":"522"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"West Garo Hills"
+    ,"code":"WG"
+    ,"headquarters":"Tura"
+    ,"population":"6,42,923"
+    ,"area":"3,714"
+    ,"density":"173"
+  },
+  {
+     "s.no":"523"
+    ,"state":"Goa (GA)"
+    ,"district":"South Goa"
+    ,"code":"SG"
+    ,"headquarters":"Margao"
+    ,"population":"6,39,962"
+    ,"area":"1,966"
+    ,"density":"326"
+  },
+  {
+     "s.no":"524"
+    ,"state":"Bihar (BR)"
+    ,"district":"Sheikhpura"
+    ,"code":"SP"
+    ,"headquarters":"Sheikhpura"
+    ,"population":"6,34,927"
+    ,"area":"689"
+    ,"density":"922"
+  },
+  {
+     "s.no":"525"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Almora"
+    ,"code":"AL"
+    ,"headquarters":"Almora"
+    ,"population":"6,21,927"
+    ,"area":"3,090"
+    ,"density":"198"
+  },
+  {
+     "s.no":"526"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Rajouri"
+    ,"code":"RA"
+    ,"headquarters":"Rajouri"
+    ,"population":"6,19,266"
+    ,"area":"2,630"
+    ,"density":"235"
+  },
+  {
+     "s.no":"527"
+    ,"state":"Punjab (PB)"
+    ,"district":"Faridkot"
+    ,"code":"FR"
+    ,"headquarters":"Faridkot"
+    ,"population":"6,18,008"
+    ,"area":"1,472"
+    ,"density":"424"
+  },
+  {
+     "s.no":"528"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Tehri Garhwal"
+    ,"code":"TG"
+    ,"headquarters":"New Tehri"
+    ,"population":"6,16,409"
+    ,"area":"4,085"
+    ,"density":"169"
+  },
+  {
+     "s.no":"529"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Kathua"
+    ,"code":"KT"
+    ,"headquarters":"Kathua"
+    ,"population":"6,15,711"
+    ,"area":"2,651"
+    ,"density":"232"
+  },
+  {
+     "s.no":"530"
+    ,"state":"Punjab (PB)"
+    ,"district":"Shahid Bhagat Singh Nagar"
+    ,"code":"PB"
+    ,"headquarters":"Nawanshahr"
+    ,"population":"6,14,362"
+    ,"area":"1,283"
+    ,"density":"479"
+  },
+  {
+     "s.no":"531"
+    ,"state":"Odisha (OD)"
+    ,"district":"Malkangiri"
+    ,"code":"ML"
+    ,"headquarters":"Malkangiri"
+    ,"population":"6,12,727"
+    ,"area":"6,115"
+    ,"density":"106"
+  },
+  {
+     "s.no":"532"
+    ,"state":"Odisha (OD)"
+    ,"district":"Nuapada"
+    ,"code":"NU"
+    ,"headquarters":"Nuapada"
+    ,"population":"6,06,490"
+    ,"area":"3,408"
+    ,"density":"157"
+  },
+  {
+     "s.no":"533"
+    ,"state":"Punjab (PB)"
+    ,"district":"Fatehgarh Sahib"
+    ,"code":"FT"
+    ,"headquarters":"Fatehgarh Sahib"
+    ,"population":"5,99,814"
+    ,"area":"1,180"
+    ,"density":"508"
+  },
+  {
+     "s.no":"534"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Simdega"
+    ,"code":"SI"
+    ,"headquarters":"Simdega"
+    ,"population":"5,99,813"
+    ,"area":"3,750"
+    ,"density":"160"
+  },
+  {
+     "s.no":"535"
+    ,"state":"Punjab (PB)"
+    ,"district":"Barnala"
+    ,"code":"BNL"
+    ,"headquarters":"Barnala"
+    ,"population":"5,96,294"
+    ,"area":"1,423"
+    ,"density":"419"
+  },
+  {
+     "s.no":"536"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Narmada"
+    ,"code":"NR"
+    ,"headquarters":"Rajpipla"
+    ,"population":"5,90,379"
+    ,"area":"2,749"
+    ,"density":"214"
+  },
+  {
+     "s.no":"537"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Porbandar"
+    ,"code":"PO"
+    ,"headquarters":"Porbandar"
+    ,"population":"5,86,062"
+    ,"area":"2,294"
+    ,"density":"255"
+  },
+  {
+     "s.no":"538"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Kabirdham (formerly Kawardha)"
+    ,"code":"KW"
+    ,"headquarters":"Kawardha"
+    ,"population":"5,84,667"
+    ,"area":"4,237"
+    ,"density":"195"
+  },
+  {
+     "s.no":"539"
+    ,"state":"Odisha (OD)"
+    ,"district":"Jharsuguda"
+    ,"code":"JH"
+    ,"headquarters":"Jharsuguda"
+    ,"population":"5,79,499"
+    ,"area":"2,202"
+    ,"density":"274"
+  },
+  {
+     "s.no":"540"
+    ,"state":"Delhi (DL)"
+    ,"district":"Central Delhi"
+    ,"code":"CD"
+    ,"headquarters":"Daryaganj"
+    ,"population":"5,78,671"
+    ,"area":"25"
+    ,"density":"23,149"
+  },
+  {
+     "s.no":"541"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Solan"
+    ,"code":"SO"
+    ,"headquarters":"Solan"
+    ,"population":"5,76,670"
+    ,"area":"1,936"
+    ,"density":"298"
+  },
+  {
+     "s.no":"542"
+    ,"state":"Odisha (OD)"
+    ,"district":"Gajapati"
+    ,"code":"GP"
+    ,"headquarters":"Paralakhemundi"
+    ,"population":"5,75,880"
+    ,"area":"3,056"
+    ,"density":"133"
+  },
+  {
+     "s.no":"543"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Harda"
+    ,"code":"HA"
+    ,"headquarters":"Harda"
+    ,"population":"5,70,302"
+    ,"area":"3,339"
+    ,"density":"171"
+  },
+  {
+     "s.no":"544"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Pulwama"
+    ,"code":"PU"
+    ,"headquarters":"Pulwama"
+    ,"population":"5,70,060"
+    ,"area":"1,398"
+    ,"density":"598"
+  },
+  {
+     "s.no":"545"
+    ,"state":"Tamil Nadu (TN)"
+    ,"district":"Perambalur"
+    ,"code":"PE"
+    ,"headquarters":"Perambalur"
+    ,"population":"5,64,511"
+    ,"area":"1,752"
+    ,"density":"323"
+  },
+  {
+     "s.no":"546"
+    ,"state":"Haryana (HR)"
+    ,"district":"Panchkula"
+    ,"code":"PK"
+    ,"headquarters":"Panchkula"
+    ,"population":"5,58,890"
+    ,"area":"816"
+    ,"density":"622"
+  },
+  {
+     "s.no":"547"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Udhampur"
+    ,"code":"UD"
+    ,"headquarters":"Udhampur"
+    ,"population":"5,55,357"
+    ,"area":"4,550"
+    ,"density":"211"
+  },
+  {
+     "s.no":"548"
+    ,"state":"Karnataka (KA)"
+    ,"district":"Kodagu"
+    ,"code":"KD"
+    ,"headquarters":"Madikeri"
+    ,"population":"5,54,762"
+    ,"area":"4,102"
+    ,"density":"135"
+  },
+  {
+     "s.no":"549"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Dantewada"
+    ,"code":"DA"
+    ,"headquarters":"Dantewada"
+    ,"population":"5,32,791"
+    ,"area":"3410"
+    ,"density":"59"
+  },
+  {
+     "s.no":"550"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Khunti"
+    ,"code":"KH"
+    ,"headquarters":"Khunti"
+    ,"population":"5,30,299"
+    ,"area":"2,467"
+    ,"density":"215"
+  },
+  {
+     "s.no":"551"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Sirmaur"
+    ,"code":"SI"
+    ,"headquarters":"Nahan"
+    ,"population":"5,30,164"
+    ,"area":"2,825"
+    ,"density":"188"
+  },
+  {
+     "s.no":"552"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Una"
+    ,"code":"UNA"
+    ,"headquarters":"Una"
+    ,"population":"5,21,057"
+    ,"area":"1,540"
+    ,"density":"328"
+  },
+  {
+     "s.no":"553"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Chamba"
+    ,"code":"CH"
+    ,"headquarters":"Chamba"
+    ,"population":"5,18,844"
+    ,"area":"6,528"
+    ,"density":"80"
+  },
+  {
+     "s.no":"554"
+    ,"state":"Manipur (MN)"
+    ,"district":"Imphal West"
+    ,"code":"WI"
+    ,"headquarters":"Lamphelpat"
+    ,"population":"5,14,683"
+    ,"area":"519"
+    ,"density":"992"
+  },
+  {
+     "s.no":"555"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Pithoragarh"
+    ,"code":"PI"
+    ,"headquarters":"Pithoragarh"
+    ,"population":"4,85,993"
+    ,"area":"7,110"
+    ,"density":"69"
+  },
+  {
+     "s.no":"556"
+    ,"state":"Tripura (TR)"
+    ,"district":"Sepahijala"
+    ,"code":"SP"
+    ,"headquarters":"Bishramganj"
+    ,"population":"4,84,233"
+    ,"area":"1044.78"
+    ,"density":"463"
+  },
+  {
+     "s.no":"557"
+    ,"state":"Assam (AS)"
+    ,"district":"Chirang"
+    ,"code":"CH"
+    ,"headquarters":"Kajalgaon"
+    ,"population":"4,81,818"
+    ,"area":"1,975"
+    ,"density":"244"
+  },
+  {
+     "s.no":"558"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Poonch"
+    ,"code":"PO"
+    ,"headquarters":"Poonch"
+    ,"population":"4,76,820"
+    ,"area":"1,674"
+    ,"density":"285"
+  },
+  {
+     "s.no":"559"
+    ,"state":"Jharkhand (JH)"
+    ,"district":"Lohardaga"
+    ,"code":"LO"
+    ,"headquarters":"Lohardaga"
+    ,"population":"4,61,738"
+    ,"area":"1,494"
+    ,"density":"310"
+  },
+  {
+     "s.no":"560"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Hamirpur"
+    ,"code":"HA"
+    ,"headquarters":"Hamirpur"
+    ,"population":"4,54,293"
+    ,"area":"1,118"
+    ,"density":"406"
+  },
+  {
+     "s.no":"561"
+    ,"state":"Manipur (MN)"
+    ,"district":"Imphal East"
+    ,"code":"EI"
+    ,"headquarters":"Porompat"
+    ,"population":"4,52,661"
+    ,"area":"710"
+    ,"density":"638"
+  },
+  {
+     "s.no":"562"
+    ,"state":"Odisha (OD)"
+    ,"district":"Boudh (Bauda)"
+    ,"code":"BD"
+    ,"headquarters":"Boudh"
+    ,"population":"4,39,917"
+    ,"area":"4,289"
+    ,"density":"142"
+  },
+  {
+     "s.no":"563"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Kullu"
+    ,"code":"KU"
+    ,"headquarters":"Kullu"
+    ,"population":"4,37,474"
+    ,"area":"5,503"
+    ,"density":"79"
+  },
+  {
+     "s.no":"564"
+    ,"state":"Tripura (TR)"
+    ,"district":"Gomati"
+    ,"code":"GM"
+    ,"headquarters":"Udaipur, Tripura"
+    ,"population":"4,36,868"
+    ,"area":"1522.8"
+    ,"density":"287"
+  },
+  {
+     "s.no":"565"
+    ,"state":"Tripura (TR)"
+    ,"district":"South Tripura"
+    ,"code":"ST"
+    ,"headquarters":"Belonia"
+    ,"population":"4,33,737"
+    ,"area":"1534.2"
+    ,"density":"283"
+  },
+  {
+     "s.no":"566"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Kulgam"
+    ,"code":"KG"
+    ,"headquarters":"Kulgam"
+    ,"population":"4,22,786"
+    ,"area":"457"
+    ,"density":"925"
+  },
+  {
+     "s.no":"567"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Surguja"
+    ,"code":"SJ"
+    ,"headquarters":"Surguja"
+    ,"population":"4,20,661"
+    ,"area":"3,265"
+    ,"density":"150"
+  },
+  {
+     "s.no":"568"
+    ,"state":"Manipur (MN)"
+    ,"district":"Thoubal"
+    ,"code":"TH"
+    ,"headquarters":"Thoubal"
+    ,"population":"4,20,517"
+    ,"area":"514"
+    ,"density":"818"
+  },
+  {
+     "s.no":"569"
+    ,"state":"Tripura (TR)"
+    ,"district":"North Tripura"
+    ,"code":"NT"
+    ,"headquarters":"Dharmanagar"
+    ,"population":"4,15,946"
+    ,"area":"1444.5"
+    ,"density":"288"
+  },
+  {
+     "s.no":"570"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Tuensang"
+    ,"code":"TU"
+    ,"headquarters":"Tuensang"
+    ,"population":"4,14,801"
+    ,"area":"4,228"
+    ,"density":"98"
+  },
+  {
+     "s.no":"571"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Doda"
+    ,"code":"DO"
+    ,"headquarters":"Doda"
+    ,"population":"4,09,576"
+    ,"area":"11,691"
+    ,"density":"79"
+  },
+  {
+     "s.no":"572"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Aizawl"
+    ,"code":"AI"
+    ,"headquarters":"Aizawl"
+    ,"population":"4,04,054"
+    ,"area":"3,577"
+    ,"density":"113"
+  },
+  {
+     "s.no":"573"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Chamoli"
+    ,"code":"CL"
+    ,"headquarters":"Gopeshwar"
+    ,"population":"3,91,114"
+    ,"area":"7,692"
+    ,"density":"49"
+  },
+  {
+     "s.no":"574"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"West Khasi Hills"
+    ,"code":"WK"
+    ,"headquarters":"Nongstoin"
+    ,"population":"3,85,601"
+    ,"area":"5,247"
+    ,"density":"73"
+  },
+  {
+     "s.no":"575"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Bandipora"
+    ,"code":"BPR"
+    ,"headquarters":"Bandipore"
+    ,"population":"3,85,099"
+    ,"area":"3,010"
+    ,"density":"128"
+  },
+  {
+     "s.no":"576"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Bilaspur"
+    ,"code":"BI"
+    ,"headquarters":"Bilaspur"
+    ,"population":"3,82,056"
+    ,"area":"1,167"
+    ,"density":"327"
+  },
+  {
+     "s.no":"577"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Dimapur"
+    ,"code":"DI"
+    ,"headquarters":"Dimapur"
+    ,"population":"3,79,769"
+    ,"area":"926"
+    ,"density":"410"
+  },
+  {
+     "s.no":"578"
+    ,"state":"Tripura (TR)"
+    ,"district":"Dhalai"
+    ,"code":"DH"
+    ,"headquarters":"Ambassa"
+    ,"population":"3,77,988"
+    ,"area":"2,400"
+    ,"density":"157"
+  },
+  {
+     "s.no":"579"
+    ,"state":"Manipur (MN)"
+    ,"district":"Senapati"
+    ,"code":"SE"
+    ,"headquarters":"Senapati"
+    ,"population":"3,54,972"
+    ,"area":"3,269"
+    ,"density":"109"
+  },
+  {
+     "s.no":"580"
+    ,"state":"Dadra and Nagar Haveli (DN)"
+    ,"district":"Dadra and Nagar Haveli"
+    ,"code":"DN"
+    ,"headquarters":"Silvassa"
+    ,"population":"3,42,853"
+    ,"area":"704"
+    ,"density":"698"
+  },
+  {
+     "s.no":"581"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Uttarkashi"
+    ,"code":"UT"
+    ,"headquarters":"Uttarkashi"
+    ,"population":"3,29,686"
+    ,"area":"7,951"
+    ,"density":"41"
+  },
+  {
+     "s.no":"582"
+    ,"state":"Tripura (TR)"
+    ,"district":"Khowai"
+    ,"code":"KH"
+    ,"headquarters":"Khowai"
+    ,"population":"3,27,391"
+    ,"area":"1005.67"
+    ,"density":"326"
+  },
+  {
+     "s.no":"583"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Samba"
+    ,"code":"SB"
+    ,"headquarters":"Samba"
+    ,"population":"3,18,611"
+    ,"area":"913"
+    ,"density":"318"
+  },
+  {
+     "s.no":"584"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"East Garo Hills"
+    ,"code":"EG"
+    ,"headquarters":"Williamnagar"
+    ,"population":"3,17,618"
+    ,"area":"2,603"
+    ,"density":"121"
+  },
+  {
+     "s.no":"585"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Reasi"
+    ,"code":"RS"
+    ,"headquarters":"Reasi"
+    ,"population":"3,14,714"
+    ,"area":"1710"
+    ,"density":"184"
+  },
+  {
+     "s.no":"586"
+    ,"state":"Odisha (OD)"
+    ,"district":"Debagarh (Deogarh)"
+    ,"code":"DE"
+    ,"headquarters":"Debagarh"
+    ,"population":"3,12,164"
+    ,"area":"2,781"
+    ,"density":"106"
+  },
+  {
+     "s.no":"587"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Ganderbal"
+    ,"code":"GB"
+    ,"headquarters":"Ganderbal"
+    ,"population":"2,97,003"
+    ,"area":"258"
+    ,"density":"1,151"
+  },
+  {
+     "s.no":"588"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Ramban"
+    ,"code":"RB"
+    ,"headquarters":"Ramban"
+    ,"population":"2,83,313"
+    ,"area":"1,330"
+    ,"density":"213"
+  },
+  {
+     "s.no":"589"
+    ,"state":"Sikkim (SK)"
+    ,"district":"East Sikkim"
+    ,"code":"ES"
+    ,"headquarters":"Gangtok"
+    ,"population":"2,81,293"
+    ,"area":"954"
+    ,"density":"295"
+  },
+  {
+     "s.no":"590"
+    ,"state":"Tripura (TR)"
+    ,"district":"Unokoti"
+    ,"code":"UK"
+    ,"headquarters":"Kailashahar"
+    ,"population":"2,77,335"
+    ,"area":"591.93"
+    ,"density":"469"
+  },
+  {
+     "s.no":"591"
+    ,"state":"Manipur (MN)"
+    ,"district":"Churachandpur"
+    ,"code":"CC"
+    ,"headquarters":"Churachandpur"
+    ,"population":"2,71,274"
+    ,"area":"4,574"
+    ,"density":"59"
+  },
+  {
+     "s.no":"592"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"West Jaintia Hills"
+    ,"code":"WG"
+    ,"headquarters":"Jowai"
+    ,"population":"2,70,352"
+    ,"area":"1,693"
+    ,"density":""
+  },
+  {
+     "s.no":"593"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Kohima"
+    ,"code":"KO"
+    ,"headquarters":"Kohima"
+    ,"population":"2,70,063"
+    ,"area":"1,041"
+    ,"density":"213"
+  },
+  {
+     "s.no":"594"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Shopian"
+    ,"code":"SH"
+    ,"headquarters":"Shupiyan"
+    ,"population":"2,65,960"
+    ,"area":"312"
+    ,"density":"852"
+  },
+  {
+     "s.no":"595"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Bageshwar"
+    ,"code":"BA"
+    ,"headquarters":"Bageshwar"
+    ,"population":"2,59,840"
+    ,"area":"2,310"
+    ,"density":"116"
+  },
+  {
+     "s.no":"596"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Mon"
+    ,"code":"MN"
+    ,"headquarters":"Mon"
+    ,"population":"2,59,604"
+    ,"area":"1,786"
+    ,"density":"145"
+  },
+  {
+     "s.no":"597"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Champawat"
+    ,"code":"CP"
+    ,"headquarters":"Champawat"
+    ,"population":"2,59,315"
+    ,"area":"1,781"
+    ,"density":"147"
+  },
+  {
+     "s.no":"598"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"Ri Bhoi"
+    ,"code":"RB"
+    ,"headquarters":"Nongpoh"
+    ,"population":"2,58,380"
+    ,"area":"2,378"
+    ,"density":"109"
+  },
+  {
+     "s.no":"599"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Bijapur"
+    ,"code":"BJ"
+    ,"headquarters":"Bijapur"
+    ,"population":"2,55,180"
+    ,"area":"6,555"
+    ,"density":"39"
+  },
+  {
+     "s.no":"600"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Sukma"
+    ,"code":"SK"
+    ,"headquarters":"Sukma"
+    ,"population":"2,49,000"
+    ,"area":"5,635.79"
+    ,"density":"49"
+  },
+  {
+     "s.no":"601"
+    ,"state":"Manipur (MN)"
+    ,"district":"Bishnupur"
+    ,"code":"BI"
+    ,"headquarters":"Bishnupur"
+    ,"population":"2,40,363"
+    ,"area":"496"
+    ,"density":"485"
+  },
+  {
+     "s.no":"602"
+    ,"state":"Andaman and Nicobar (AN)"
+    ,"district":"South Andaman"
+    ,"code":"SA"
+    ,"headquarters":"Port Blair"
+    ,"population":"2,37,586"
+    ,"area":"3,181"
+    ,"density":"80"
+  },
+  {
+     "s.no":"603"
+    ,"state":"Uttarakhand (UK)"
+    ,"district":"Rudraprayag"
+    ,"code":"RP"
+    ,"headquarters":"Rudraprayag"
+    ,"population":"2,36,857"
+    ,"area":"1,896"
+    ,"density":"119"
+  },
+  {
+     "s.no":"604"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Kishtwar"
+    ,"code":"KW"
+    ,"headquarters":"Kishtwar"
+    ,"population":"2,31,037"
+    ,"area":"1848"
+    ,"density":"125"
+  },
+  {
+     "s.no":"605"
+    ,"state":"Gujarat (GJ)"
+    ,"district":"Dang"
+    ,"code":"DG"
+    ,"headquarters":"Ahwa"
+    ,"population":"2,26,769"
+    ,"area":"1,764"
+    ,"density":"129"
+  },
+  {
+     "s.no":"606"
+    ,"state":"Assam (AS)"
+    ,"district":"Dima Hasao"
+    ,"code":"NC"
+    ,"headquarters":"Haflong"
+    ,"population":"2,13,529"
+    ,"area":"4,888"
+    ,"density":"44"
+  },
+  {
+     "s.no":"607"
+    ,"state":"Puducherry (PY)"
+    ,"district":"Karaikal"
+    ,"code":"KA"
+    ,"headquarters":"Karaikal"
+    ,"population":"2,00,314"
+    ,"area":"160"
+    ,"density":"1,252"
+  },
+  {
+     "s.no":"608"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Mokokchung"
+    ,"code":"MK"
+    ,"headquarters":"Mokokchung"
+    ,"population":"1,93,171"
+    ,"area":"1,615"
+    ,"density":"120"
+  },
+  {
+     "s.no":"609"
+    ,"state":"Daman and Diu (DD)"
+    ,"district":"Daman"
+    ,"code":"DA"
+    ,"headquarters":"Daman"
+    ,"population":"1,90,855"
+    ,"area":"72"
+    ,"density":"2,651"
+  },
+  {
+     "s.no":"610"
+    ,"state":"Manipur (MN)"
+    ,"district":"Ukhrul"
+    ,"code":"UK"
+    ,"headquarters":"Ukhrul"
+    ,"population":"1,83,115"
+    ,"area":"4,547"
+    ,"density":"40"
+  },
+  {
+     "s.no":"611"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Papum Pare"
+    ,"code":"PA"
+    ,"headquarters":"Yupia"
+    ,"population":"1,76,385"
+    ,"area":"2,875"
+    ,"density":"51"
+  },
+  {
+     "s.no":"612"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Wokha"
+    ,"code":"WO"
+    ,"headquarters":"Wokha"
+    ,"population":"1,66,239"
+    ,"area":"1,628"
+    ,"density":"120"
+  },
+  {
+     "s.no":"613"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Peren"
+    ,"code":"PE"
+    ,"headquarters":"Peren"
+    ,"population":"1,63,294"
+    ,"area":"2,300"
+    ,"density":"55"
+  },
+  {
+     "s.no":"614"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Phek"
+    ,"code":"PH"
+    ,"headquarters":"Phek"
+    ,"population":"1,63,294"
+    ,"area":"2,026"
+    ,"density":"81"
+  },
+  {
+     "s.no":"615"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Lunglei"
+    ,"code":"LU"
+    ,"headquarters":"Lunglei"
+    ,"population":"1,54,094"
+    ,"area":"4,572"
+    ,"density":"34"
+  },
+  {
+     "s.no":"616"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Changlang"
+    ,"code":"CH"
+    ,"headquarters":"Changlang"
+    ,"population":"1,47,951"
+    ,"area":"4,662"
+    ,"density":"32"
+  },
+  {
+     "s.no":"617"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Leh"
+    ,"code":"LE"
+    ,"headquarters":"Leh"
+    ,"population":"1,47,104"
+    ,"area":"45,110"
+    ,"density":"3"
+  },
+  {
+     "s.no":"618"
+    ,"state":"Sikkim (SK)"
+    ,"district":"South Sikkim"
+    ,"code":"SS"
+    ,"headquarters":"Namchi"
+    ,"population":"1,46,742"
+    ,"area":"750"
+    ,"density":"196"
+  },
+  {
+     "s.no":"619"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Lohit"
+    ,"code":"EL"
+    ,"headquarters":"Tezu"
+    ,"population":"1,45,538"
+    ,"area":"2,402"
+    ,"density":"28"
+  },
+  {
+     "s.no":"620"
+    ,"state":"Manipur (MN)"
+    ,"district":"Chandel"
+    ,"code":"CD"
+    ,"headquarters":"Chandel"
+    ,"population":"1,44,028"
+    ,"area":"3,317"
+    ,"density":"43"
+  },
+  {
+     "s.no":"621"
+    ,"state":"Jammu and Kashmir (JK)"
+    ,"district":"Kargil"
+    ,"code":"KR"
+    ,"headquarters":"Kargil"
+    ,"population":"1,43,388"
+    ,"area":"14,036"
+    ,"density":"10"
+  },
+  {
+     "s.no":"622"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"South Garo Hills"
+    ,"code":"SG"
+    ,"headquarters":"Baghmara"
+    ,"population":"1,42,574"
+    ,"area":"1,850"
+    ,"density":"77"
+  },
+  {
+     "s.no":"623"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Zunheboto"
+    ,"code":"ZU"
+    ,"headquarters":"Zunheboto"
+    ,"population":"1,41,014"
+    ,"area":"1,255"
+    ,"density":"112"
+  },
+  {
+     "s.no":"624"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Narayanpur"
+    ,"code":"NR"
+    ,"headquarters":"Narayanpur"
+    ,"population":"1,40,206"
+    ,"area":"6,640"
+    ,"density":"20"
+  },
+  {
+     "s.no":"625"
+    ,"state":"Manipur (MN)"
+    ,"district":"Tamenglong"
+    ,"code":"TA"
+    ,"headquarters":"Tamenglong"
+    ,"population":"1,40,143"
+    ,"area":"4,391"
+    ,"density":"32"
+  },
+  {
+     "s.no":"626"
+    ,"state":"Sikkim (SK)"
+    ,"district":"West Sikkim"
+    ,"code":"WS"
+    ,"headquarters":"Geyzing"
+    ,"population":"1,36,299"
+    ,"area":"1,166"
+    ,"density":"117"
+  },
+  {
+     "s.no":"627"
+    ,"state":"Delhi (DL)"
+    ,"district":"New Delhi"
+    ,"code":"ND"
+    ,"headquarters":"Connaught Place"
+    ,"population":"1,33,713"
+    ,"area":"22"
+    ,"density":"3,820"
+  },
+  {
+     "s.no":"628"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Champhai"
+    ,"code":"CH"
+    ,"headquarters":"Champhai"
+    ,"population":"1,25,370"
+    ,"area":"3,168"
+    ,"density":"39"
+  },
+  {
+     "s.no":"629"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"East Jaintia Hills"
+    ,"code":""
+    ,"headquarters":"Khleihriat"
+    ,"population":"1,22,436"
+    ,"area":"2,115"
+    ,"density":""
+  },
+  {
+     "s.no":"630"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"North Garo Hills"
+    ,"code":""
+    ,"headquarters":"Resubelpara"
+    ,"population":"1,18,325"
+    ,"area":"1,113"
+    ,"density":""
+  },
+  {
+     "s.no":"631"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Lawngtlai"
+    ,"code":"LA"
+    ,"headquarters":"Lawngtlai"
+    ,"population":"1,17,444"
+    ,"area":"2,519"
+    ,"density":"46"
+  },
+  {
+     "s.no":"632"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"West Siang"
+    ,"code":"WS"
+    ,"headquarters":"Along"
+    ,"population":"1,12,272"
+    ,"area":"8,325"
+    ,"density":"23"
+  },
+  {
+     "s.no":"633"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Tirap"
+    ,"code":"TI"
+    ,"headquarters":"Khonsa"
+    ,"population":"1,11,997"
+    ,"area":"2,362"
+    ,"density":"47"
+  },
+  {
+     "s.no":"634"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"South West Khasi Hills"
+    ,"code":""
+    ,"headquarters":"Mawkyrwat"
+    ,"population":"1,10,152"
+    ,"area":"1,341"
+    ,"density":""
+  },
+  {
+     "s.no":"635"
+    ,"state":"Andaman and Nicobar (AN)"
+    ,"district":"North and Middle Andaman"
+    ,"code":"NA"
+    ,"headquarters":"Mayabunder"
+    ,"population":"1,05,539"
+    ,"area":"3,227"
+    ,"density":"32"
+  },
+  {
+     "s.no":"636"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"East Siang"
+    ,"code":"ES"
+    ,"headquarters":"Pasighat"
+    ,"population":"99,019"
+    ,"area":"3,603"
+    ,"density":"27"
+  },
+  {
+     "s.no":"637"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Kurung Kumey"
+    ,"code":"KK"
+    ,"headquarters":"Koloriang"
+    ,"population":"89,717"
+    ,"area":"6,040"
+    ,"density":"15"
+  },
+  {
+     "s.no":"638"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"West Kameng"
+    ,"code":"WK"
+    ,"headquarters":"Bomdila"
+    ,"population":"87,013"
+    ,"area":"7,422"
+    ,"density":"12"
+  },
+  {
+     "s.no":"639"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Mamit"
+    ,"code":"MA"
+    ,"headquarters":"Mamit"
+    ,"population":"85,757"
+    ,"area":"2,967"
+    ,"density":"28"
+  },
+  {
+     "s.no":"640"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Kinnaur"
+    ,"code":"KI"
+    ,"headquarters":"Reckong Peo"
+    ,"population":"84,298"
+    ,"area":"6,401"
+    ,"density":"13"
+  },
+  {
+     "s.no":"641"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Upper Subansiri"
+    ,"code":"UB"
+    ,"headquarters":"Daporijo"
+    ,"population":"83,205"
+    ,"area":"7,032"
+    ,"density":"12"
+  },
+  {
+     "s.no":"642"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Kolasib"
+    ,"code":"KO"
+    ,"headquarters":"Kolasib"
+    ,"population":"83,054"
+    ,"area":"1,386"
+    ,"density":"60"
+  },
+  {
+     "s.no":"643"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Lower Subansiri"
+    ,"code":"LB"
+    ,"headquarters":"Ziro"
+    ,"population":"82,839"
+    ,"area":"3,508"
+    ,"density":"24"
+  },
+  {
+     "s.no":"644"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"East Kameng"
+    ,"code":"EK"
+    ,"headquarters":"Seppa"
+    ,"population":"78,413"
+    ,"area":"4,134"
+    ,"density":"19"
+  },
+  {
+     "s.no":"645"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Kiphire"
+    ,"code":"KI"
+    ,"headquarters":"Kiphire"
+    ,"population":"74,033"
+    ,"area":"1,255"
+    ,"density":"66"
+  },
+  {
+     "s.no":"646"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Serchhip"
+    ,"code":"SE"
+    ,"headquarters":"Serchhip"
+    ,"population":"64,875"
+    ,"area":"1,424"
+    ,"density":"46"
+  },
+  {
+     "s.no":"647"
+    ,"state":"Lakshadweep (LD)"
+    ,"district":"Lakshadweep"
+    ,"code":"LD"
+    ,"headquarters":"Kavaratti"
+    ,"population":"64,429"
+    ,"area":"32"
+    ,"density":"2,013"
+  },
+  {
+     "s.no":"648"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Saiha"
+    ,"code":"SA"
+    ,"headquarters":"Saiha"
+    ,"population":"56,366"
+    ,"area":"1,414"
+    ,"density":"40"
+  },
+  {
+     "s.no":"649"
+    ,"state":"Puducherry (PY)"
+    ,"district":"Yanam"
+    ,"code":"YA"
+    ,"headquarters":"Yanam"
+    ,"population":"55,616"
+    ,"area":"17"
+    ,"density":"3,272"
+  },
+  {
+     "s.no":"650"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Lower Dibang Valley"
+    ,"code":"DV"
+    ,"headquarters":"Anini"
+    ,"population":"53,986"
+    ,"area":"3,900"
+    ,"density":"14"
+  },
+  {
+     "s.no":"651"
+    ,"state":"Daman and Diu (DD)"
+    ,"district":"Diu"
+    ,"code":"DI"
+    ,"headquarters":"Diu"
+    ,"population":"52,056"
+    ,"area":"40"
+    ,"density":"1,301"
+  },
+  {
+     "s.no":"652"
+    ,"state":"Mizoram (MZ)"
+    ,"district":"Longleng"
+    ,"code":"LO"
+    ,"headquarters":"Longleng"
+    ,"population":"50,593"
+    ,"area":"885"
+    ,"density":"89"
+  },
+  {
+     "s.no":"653"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Tawang"
+    ,"code":"TA"
+    ,"headquarters":"Tawang Town"
+    ,"population":"49,950"
+    ,"area":"2,085"
+    ,"density":"23"
+  },
+  {
+     "s.no":"654"
+    ,"state":"Sikkim (SK)"
+    ,"district":"North Sikkim"
+    ,"code":"NS"
+    ,"headquarters":"Mangan"
+    ,"population":"43,354"
+    ,"area":"4,226"
+    ,"density":"10"
+  },
+  {
+     "s.no":"655"
+    ,"state":"Puducherry (PY)"
+    ,"district":"Mahe"
+    ,"code":"MA"
+    ,"headquarters":"Mah�"
+    ,"population":"41,934"
+    ,"area":"9"
+    ,"density":"4,659"
+  },
+  {
+     "s.no":"656"
+    ,"state":"Andaman and Nicobar (AN)"
+    ,"district":"Nicobar"
+    ,"code":"NI"
+    ,"headquarters":"Car Nicobar"
+    ,"population":"36,819"
+    ,"area":"1,841"
+    ,"density":"20"
+  },
+  {
+     "s.no":"657"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Upper Siang"
+    ,"code":"US"
+    ,"headquarters":"Yingkiong"
+    ,"population":"35,289"
+    ,"area":"6,188"
+    ,"density":"5"
+  },
+  {
+     "s.no":"658"
+    ,"state":"Himachal Pradesh (HP)"
+    ,"district":"Lahaul and Spiti"
+    ,"code":"LS"
+    ,"headquarters":"Keylong"
+    ,"population":"31,528"
+    ,"area":"13,835"
+    ,"density":"2"
+  },
+  {
+     "s.no":"659"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Anjaw"
+    ,"code":"AJ"
+    ,"headquarters":"Hawai"
+    ,"population":"21,089"
+    ,"area":"6,190"
+    ,"density":"3"
+  },
+  {
+     "s.no":"660"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Dibang Valley"
+    ,"code":"UD"
+    ,"headquarters":"Anini"
+    ,"population":"7,948"
+    ,"area":"9,129"
+    ,"density":"1"
+  },
+  {
+     "s.no":"661"
+    ,"state":"Punjab (PB)"
+    ,"district":"Fazilka"
+    ,"code":"FA"
+    ,"headquarters":"Fazilka"
+    ,"population":""
+    ,"area":"-"
+    ,"density":"��"
+  },
+  {
+     "s.no":"662"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Shamli"
+    ,"code":"SH"
+    ,"headquarters":"Shamli"
+    ,"population":""
+    ,"area":""
+    ,"density":"��"
+  },
+  {
+     "s.no":"663"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Balrampur"
+    ,"code":""
+    ,"headquarters":"Balrampur"
+    ,"population":""
+    ,"area":"3806.08"
+    ,"density":"-"
+  },
+  {
+     "s.no":"664"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Bemetara"
+    ,"code":""
+    ,"headquarters":"Bemetara"
+    ,"population":""
+    ,"area":"-"
+    ,"density":"-"
+  },
+  {
+     "s.no":"665"
+    ,"state":"Maharashtra (MH)"
+    ,"district":"Palghar"
+    ,"code":"-"
+    ,"headquarters":"Palghar"
+    ,"population":""
+    ,"area":"-"
+    ,"density":"-"
+  },
+  {
+     "s.no":"666"
+    ,"state":"Arunachal Pradesh (AR)"
+    ,"district":"Longding"
+    ,"code":"LD"
+    ,"headquarters":"Longding"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"667"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Balod"
+    ,"code":""
+    ,"headquarters":"Balod"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"668"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Baloda Bazar"
+    ,"code":""
+    ,"headquarters":"Baloda Bazar"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"669"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Gariaband"
+    ,"code":""
+    ,"headquarters":"Gariaband"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"670"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Kondagaon"
+    ,"code":""
+    ,"headquarters":"Kondagaon"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"671"
+    ,"state":"Chhattisgarh (CG)"
+    ,"district":"Mungeli"
+    ,"code":""
+    ,"headquarters":"Mungeli"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"672"
+    ,"state":"Delhi (DL)"
+    ,"district":"Shahdara"
+    ,"code":""
+    ,"headquarters":"Shahdara"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"673"
+    ,"state":"Delhi (DL)"
+    ,"district":"South East Delhi"
+    ,"code":""
+    ,"headquarters":"Defence Colony"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"674"
+    ,"state":"Madhya Pradesh (MP)"
+    ,"district":"Agar"
+    ,"code":"AG"
+    ,"headquarters":"Agar"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"675"
+    ,"state":"Meghalaya (ML)"
+    ,"district":"South West Garo Hills"
+    ,"code":""
+    ,"headquarters":"Ampati"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  },
+  {
+     "s.no":"676"
+    ,"state":"Uttar Pradesh (UP)"
+    ,"district":"Amethi (Chhatrapati Shahuji Maharaj Nagar)"
+    ,"code":"CS"
+    ,"headquarters":"Gauriganj"
+    ,"population":""
+    ,"area":""
+    ,"density":""
+  }]

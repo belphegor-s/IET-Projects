@@ -1,0 +1,7 @@
+Django==1.11
+djangorestframework
+googlemaps
+numpy
+scipy
+sklearn
+
