@@ -1,0 +1,92 @@
+[
+{
+    "model": "summarize.summary",
+    "pk": 224,
+    "fields": {
+        "title": "Kim Jong Un calls Trump a 'dotard' after US President vowed at the UN to destroy North Korea if necessary",
+        "url": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/CkkcsupMGCw/index.html",
+        "summarize_url": "['North Korea was scheduled to speak at the UN General Assembly Friday night, but dropped off of its planned roster spot.', 'The executive order Trump inked just ahead of the lunch enhances Treasury Department authorities to target individuals who provide goods, services or technology to North Korea, Trump said.', 'Regarding which measures to take, I don\\'t really know since it is what Kim Jong Un does,\" said Ri.', 'A handful of North Korea analysts believe that this is the first time Kim Jong Un has ever released a first-person statement.', 'Ri\\'s comments came shortly after Kim said that Trump would \"pay dearly\" for threatening to \"totally destroy\" North Korea during his UN speech Tuesday.']",
+        "source": "CNN"
+    }
+},
+{
+    "model": "summarize.summary",
+    "pk": 225,
+    "fields": {
+        "title": "North Korea sanctions: Here's what Trump did",
+        "url": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/YJOlMH3J6lw/index.html",
+        "summarize_url": "['Even ships and aircraft that go to North Korea would be banned from the United States for 180 days.', 'But not everyone does business with North Korea.', \"Did China's central bank take action against North Korea?\", 'U.S. financial institutions -- like JPMorgan Chase, Wells Fargo, Bank of America -- are already barred by law from pursuing any financial transactions directly or indirectly with North Korea.', \"Trump also said that China's central bank had asked its own banks to cut ties with North Korea's leader Kim Jong Un.\"]",
+        "source": "CNN"
+    }
+},
+{
+    "model": "summarize.summary",
+    "pk": 226,
+    "fields": {
+        "title": "Trump sanctions target North Korea's few friends",
+        "url": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Vj62UUwLTP8/index.html",
+        "summarize_url": "['The executive order Trump inked just ahead of the lunch enhances Treasury Department authorities to target individuals who provide goods, services or technology to North Korea, Trump said.', 'Asked at the end of the photo-op whether dialogue was still possible with North Korea, Trump said: \"Why not?\"', 'The new set of US sanctions on financial institutions that do business with North Korea is not targeted specifically at China, Treasury Secretary Steve Mnuchin said Thursday.', 'The United Nations Security Council has approved multiple rounds of sanctions on North Korea, including on its exports.', \"Trump himself appeared to open the door for talks with North Korea, an option he'd previously ruled out.\"]",
+        "source": "CNN"
+    }
+},
+{
+    "model": "summarize.summary",
+    "pk": 227,
+    "fields": {
+        "title": "'Dawood Ibrahim in Pakistan, brother Iqbal tells Thane police'",
+        "url": "http://www.hindustantimes.com/mumbai-news/dawood-ibrahim-in-pakistan-brother-tells-thane-cops/story-tnoUk1mBnL6vhARsN1I4WI.html",
+        "summarize_url": "['Dawood Ibrahim, underworld don-turned-global terrorist, definitely lives in Pakistan, his brother, Iqbal Kaskar, has reportedly confirmed to the Thane police who are questioning him after his arrest in an extortion case.', 'Iqbal even provided his interrogators four addresses of Dawood\\xe2\\x80\\x99s in Karachi, police sources close to the case told HT.\\n\\nIndia has long maintained that Dawood Ibrahim lives in Karachi and Pakistan has consistently denied this.', 'Iqbal Kaskar is the fifth of Dawood\\xe2\\x80\\x99s 11 siblings and he was deported from the United Arab Emirates (UAE) in March 2003.', 'Iqbal also told interrogators that that he did meet Dawood in Dubai somewhere around 2003, the sources said.', '\\xc2\\xa0 They will also help the local police verify if Dawood was involved in extortion rackets in Mumbai, Thane and Navi Mumbai.']",
+        "source": "Hindustan Times"
+    }
+},
+{
+    "model": "summarize.summary",
+    "pk": 228,
+    "fields": {
+        "title": "Calcutta HC sets aside restrictions on Durga idol immersion, Mamata says won't succumb...",
+        "url": "http://www.hindustantimes.com/india-news/calcutta-hc-sets-aside-mamata-govt-s-durga-puja-order-says-make-separate-routes-for-idol-immersion-and-muharram/story-LySLjfMhpYguZTcDchY9LN.html",
+        "summarize_url": "['Immersion of the idols marks the end of five-day Durga Puja celebrations, a Hindu festival that celebrates triumph of good over evil.', 'The Calcutta high court on Thursday put on hold a West Bengal government order that banned immersion of Durga idols during Muharram and also asked for adequate security arrangements to avoid a communal flare-up.', 'The court\\xe2\\x80\\x99s interim directions came on three public interest litigations challenging the restrictions on the immersion of idols.', '\\n\\nWest Bengal BJP chief Dilip Ghosh said the state government\\xe2\\x80\\x99s attempts \\xe2\\x80\\x9cto divide the people on religious lines and reap electoral benefits out of it\\xe2\\x80\\x9d had been defeated.', 'The restrictions were necessary to maintain law and order, it had said.']",
+        "source": "Hindustan Times"
+    }
+},
+{
+    "model": "summarize.summary",
+    "pk": 229,
+    "fields": {
+        "title": "Kuldeep Yadav hat-trick, Virat Kohli's 92 slay Australia, India 2-0 up",
+        "url": "http://www.hindustantimes.com/india-vs-australia-2017/rain-looms-large-as-india-opt-to-bat-against-australia-in-kolkata-odi/story-9Nl5X9bj4SmzksgPUyLALI.html",
+        "summarize_url": "['Certainly not by an Australia team with questionable abilities against the turning ball. (India vs Australia 2nd ODI:\\xe2\\x80\\x89Scorecard)\\n\\nWith the second ball of the 33rd over, Kuldeep Yadav felled Matthew Wade with a leg-break.', 'The Chinaman bowler\\xe2\\x80\\x99s feat, the second at Eden after Kapil Dev\\xe2\\x80\\x99s hattrick in 1991 and the third by an Indian, fast-forwarded India to their eighth successive ODI win. (India vs Australia 2nd ODI:\\xe2\\x80\\x89HIGHLIGHTS)\\n\\nREAD | Kuldeep Yadav takes hat-trick in India vs Australia ODI, 3rd Indian to do so\\n\\nThere will be sterner tests ahead but in certain conditions this India team is not to be messed with.', 'Being in sole second spot with 31 ODI centuries seemed round the corner but he played on and India were ambushed.', 'Time will tell whether the mystery around Kuldeep Yadav deepened after he took a hat-trick at Eden Gardens on Thursday but by then the second one-dayer against Australia had already swung India\\xe2\\x80\\x99s way.', 'Yadav ended with figures of 10-1-54-3 and to think that David Warner was gone before he had even started operations!']",
+        "source": "Hindustan Times"
+    }
+},
+{
+    "model": "summarize.summary",
+    "pk": 230,
+    "fields": {
+        "title": "Dawood in Pakistan, doesn't call fearing phone tap, says his brother",
+        "url": "http://timesofindia.indiatimes.com/india/dawoods-brother-says-hes-in-pakistan-lists-4-5-addresses/articleshow/60787577.cms",
+        "summarize_url": "[\"THANE: Dawood Ibrahim , India's most wanted, is presently in Pakistan , a senior police officer has quoted the don's brother Iqbal Kaskar as saying.\", 'Kaskar has given some four-five addresses used by Dawood in the country.Pakistan consistently denies that the global terrorist is holed up there.', 'He denied being involved in any extortion racket and claimed he was doing business with the builders.', 'It is learnt that a builder from Navi Mumbai was slapped by these Bihari shooters and threatened.', 'Already, a builder and a jeweller have lodged complaints.Sources said a police team has been sent to Bihar, from where shooters were hired to scare victims.']",
+        "source": "Times of India"
+    }
+},
+{
+    "model": "summarize.summary",
+    "pk": 231,
+    "fields": {
+        "title": "Pak PM urges UN to appoint special envoy to J&K",
+        "url": "http://timesofindia.indiatimes.com/world/pakistan/pakistans-pm-rakes-up-kashmir-issue-at-un-urges-intervention/articleshow/60788432.cms",
+        "summarize_url": "['UNITED NATIONS: Pakistan Prime Minister Shahid Khaqan Abbasi has urged the United Nations to appoint a special envoy to Kashmir, as he claimed that the struggle of the people in the region is being \"brutally suppressed\" by India.In his maiden address to the UN General Assembly yesterday, Abbasi accused India of indulging in terror activities against his country and warned of a \"matching response\" if it \"ventures across the LoC (Line of Control)\" or acts upon its doctrine of limited war against Pakistan.\"The Kashmir dispute should be resolved justly, peacefully and expeditiously.', 'As India is unwilling to resume the peace process with Pakistan, we call on the Security Council to fulfil its obligation to secure the implementation of its own resolutions on Jammu and Kashmir ,\" he added.\"To this end, the UN secretary general should appoint a special envoy on Kashmir.', 'His mandate should flow from the longstanding but unimplemented resolutions of the Security Council,\" Abbasi said.He said despite over 600 ceasefire violations on the India-Pakistan border since January this year, Pakistan has acted with restraint.\"But if India does venture across the LoC, or acts upon its doctrine of limited war against Pakistan, it will evoke a strong and matching response,\" he said in his speech in which he raised his anti-India rhetoric.India is expected to soon take up the podium to respond to Abbasi\\'s remarks on Kashmir.The Pakistani prime minister said the legitimate struggle for self-determination of the people of Jammu and Kashmir continues to be \"brutally suppressed by India\\'s occupation forces\".Abbasi, who assumed office few months ago, mentioned Kashmir a total of 17 times and India 14 times among other things in his speech.He also said that from day one of its creation, Pakistan has faced unremitting hostility from its eastern neighbor (India).\"India refuses to implement the unanimous resolutions of the UN Security Council, which mandate a UN supervised plebiscite to enable the people of Jammu and Kashmir to freely decide their destiny,\" he said.\"Instead, India has deployed nearly 700,000 troops in occupied Kashmir to suppress the legitimate struggle of the Kashmiris to exercise their right to self-determination.', 'This is the most intense foreign military occupation in recent history,\" Abbasi said as he kicked up the Pakistan\\'s rhetoric against India.\"Shotgun pellets have blinded and maimed thousands of Kashmiris including children.', ' These and other brutalities clearly constitute war crimes and violate the Geneva Conventions,\" he charged.Abbasi demanded an international investigation into the alleged atrocities in Kashmir and sending of an inquiry commission to Jammu and Kashmir in order to secure the punishment of those \"responsible of human rights violation\" and provide justice and relief to victims.However, he stated that Pakistan remains open to resuming a comprehensive dialogue with India to address all outstanding issues, especially Kashmir and discuss measures to maintain peace and security in the region.\"This dialogue must be accompanied by an end to India\\'s campaign of subversion and state sponsored terrorism against Pakistan, including from across our western border,\" Abbasi said.']",
+        "source": "Times of India"
+    }
+},
+{
+    "model": "summarize.summary",
+    "pk": 232,
+    "fields": {
+        "title": "No role in Gauri Lankesh murder: Sanatan Sanstha",
+        "url": "http://timesofindia.indiatimes.com/city/bengaluru/had-no-role-in-gauri-murder-says-sanatan-sanstha/articleshow/60788052.cms",
+        "summarize_url": "['Rajhans said Sanstha is open to co-operating with the Special Investigation Team (SIT) probing the Gauri murder and investigators were welcome to visit their headquarters in Ponda.', 'Sanatan Sanstha has always fought ideology with ideology and taken the legal route in a democratic fashion, \"Sanstha spokesperson Chetan Rajhans told reporters here.', ' SIT officials collected details about the press conference held by Sanstha and HJS on Thursday.', 'However, to conclude that Hindu activists have carried out the murder is unfair.', 'BENGALURU: The Sanatan Sanstha, a Goa-based Hindutva outfit, and its affiliate Hindu Janajagruti Samiti (HJS) on Thursday condemned the murder of journalist-activist Gauri Lankesh and reiterated they had no role to play in the killing.\"Ideological differences between Hindu activists and Leftists cannot be denied.']",
+        "source": "Times of India"
+    }
+}
+]

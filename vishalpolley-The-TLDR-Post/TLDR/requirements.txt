@@ -1,0 +1,11 @@
+Django==1.11
+django-crispy-forms==1.6.0
+djangorestframework
+markdown
+django-filter
+pyteaser
+social-auth-app-django
+feedparser
+schedule
+django-crontab
+unidecode

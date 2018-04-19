@@ -1,0 +1,13 @@
+{% load static %}
+<!Doctype html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+		<title>{% block title%} MySocialLoginPage {% endblock %}</title>
+		<link rel="shortcut icon" href="{% static 'login/image/favicon.ico' %}" type="image/x-icon"> 
+		{% block head %}{% endblock %}
+	</head>
+	<body>
+	{% block content %} {% endblock %}
+	</body>
+</html>
