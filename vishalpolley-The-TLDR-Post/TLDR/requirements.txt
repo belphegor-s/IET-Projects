@@ -1,4 +1,4 @@
-Django==1.11
+Django==1.11.23
 django-crispy-forms==1.6.0
 djangorestframework
 markdown
