@@ -1,2 +1,2 @@
-# digifest
-hackathon 3.0
+## DIGIT 
+Hackathon 3.0
